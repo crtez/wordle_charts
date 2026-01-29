@@ -14488,5 +14488,19 @@
         "delta": 0.39
       }
     }
+  },
+  {
+    "date": "2026-01-28",
+    "word": "cruel",
+    "guesses": {
+      "today": 8668,
+      "yesterday": 351,
+      "delta": 8317,
+      "proportion": {
+        "today": 0.49,
+        "yesterday": 0.02,
+        "delta": 0.47
+      }
+    }
   }
 ]
