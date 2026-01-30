@@ -14502,5 +14502,19 @@
         "delta": 0.47
       }
     }
+  },
+  {
+    "date": "2026-01-29",
+    "word": "flaky",
+    "guesses": {
+      "today": 7616,
+      "yesterday": 30,
+      "delta": 7586,
+      "proportion": {
+        "today": 0.43,
+        "yesterday": 0.0,
+        "delta": 0.43
+      }
+    }
   }
 ]
