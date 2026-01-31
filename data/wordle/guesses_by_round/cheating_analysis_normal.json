@@ -14516,5 +14516,19 @@
         "delta": 0.43
       }
     }
+  },
+  {
+    "date": "2026-01-30",
+    "word": "jumbo",
+    "guesses": {
+      "today": 10363,
+      "yesterday": 83,
+      "delta": 10280,
+      "proportion": {
+        "today": 0.58,
+        "yesterday": 0.0,
+        "delta": 0.58
+      }
+    }
   }
 ]
