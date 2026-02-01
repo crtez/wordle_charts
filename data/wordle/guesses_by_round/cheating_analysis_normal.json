@@ -14530,5 +14530,19 @@
         "delta": 0.58
       }
     }
+  },
+  {
+    "date": "2026-01-31",
+    "word": "allot",
+    "guesses": {
+      "today": 5187,
+      "yesterday": 8,
+      "delta": 5179,
+      "proportion": {
+        "today": 0.29,
+        "yesterday": 0.0,
+        "delta": 0.29
+      }
+    }
   }
 ]
