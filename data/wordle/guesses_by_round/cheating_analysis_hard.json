@@ -14544,5 +14544,19 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-02-01",
+    "word": "spiny",
+    "guesses": {
+      "today": 354,
+      "yesterday": 5,
+      "delta": 349,
+      "proportion": {
+        "today": 0.16,
+        "yesterday": 0.0,
+        "delta": 0.15
+      }
+    }
   }
 ]
