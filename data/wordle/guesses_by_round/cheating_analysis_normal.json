@@ -14558,5 +14558,19 @@
         "delta": 0.26
       }
     }
+  },
+  {
+    "date": "2026-02-02",
+    "word": "cigar",
+    "guesses": {
+      "today": 9416,
+      "yesterday": 54,
+      "delta": 9362,
+      "proportion": {
+        "today": 0.53,
+        "yesterday": 0.0,
+        "delta": 0.53
+      }
+    }
   }
 ]
