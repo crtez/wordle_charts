@@ -14572,5 +14572,19 @@
         "delta": 0.53
       }
     }
+  },
+  {
+    "date": "2026-02-03",
+    "word": "weigh",
+    "guesses": {
+      "today": 9751,
+      "yesterday": 300,
+      "delta": 9451,
+      "proportion": {
+        "today": 0.55,
+        "yesterday": 0.02,
+        "delta": 0.53
+      }
+    }
   }
 ]
