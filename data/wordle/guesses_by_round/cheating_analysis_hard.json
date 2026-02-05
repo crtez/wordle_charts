@@ -14586,5 +14586,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-02-04",
+    "word": "chide",
+    "guesses": {
+      "today": 507,
+      "yesterday": 40,
+      "delta": 467,
+      "proportion": {
+        "today": 0.23,
+        "yesterday": 0.02,
+        "delta": 0.21
+      }
+    }
   }
 ]
