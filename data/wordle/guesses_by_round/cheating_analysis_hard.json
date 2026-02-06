@@ -14600,5 +14600,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-02-05",
+    "word": "swoop",
+    "guesses": {
+      "today": 425,
+      "yesterday": 0,
+      "delta": 425,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
