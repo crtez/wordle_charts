@@ -14614,5 +14614,19 @@
         "delta": 0.49
       }
     }
+  },
+  {
+    "date": "2026-02-06",
+    "word": "gavel",
+    "guesses": {
+      "today": 9154,
+      "yesterday": 39,
+      "delta": 9115,
+      "proportion": {
+        "today": 0.52,
+        "yesterday": 0.0,
+        "delta": 0.51
+      }
+    }
   }
 ]
