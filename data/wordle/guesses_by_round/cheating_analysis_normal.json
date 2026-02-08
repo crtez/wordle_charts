@@ -14628,5 +14628,19 @@
         "delta": 0.51
       }
     }
+  },
+  {
+    "date": "2026-02-07",
+    "word": "bleat",
+    "guesses": {
+      "today": 5906,
+      "yesterday": 321,
+      "delta": 5585,
+      "proportion": {
+        "today": 0.33,
+        "yesterday": 0.02,
+        "delta": 0.32
+      }
+    }
   }
 ]
