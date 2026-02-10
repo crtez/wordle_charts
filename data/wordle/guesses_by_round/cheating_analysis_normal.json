@@ -14656,5 +14656,19 @@
         "delta": 0.29
       }
     }
+  },
+  {
+    "date": "2026-02-09",
+    "word": "cello",
+    "guesses": {
+      "today": 9673,
+      "yesterday": 19,
+      "delta": 9654,
+      "proportion": {
+        "today": 0.54,
+        "yesterday": 0.0,
+        "delta": 0.54
+      }
+    }
   }
 ]
