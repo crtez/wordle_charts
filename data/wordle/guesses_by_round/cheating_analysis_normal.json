@@ -14670,5 +14670,19 @@
         "delta": 0.54
       }
     }
+  },
+  {
+    "date": "2026-02-10",
+    "word": "scene",
+    "guesses": {
+      "today": 9409,
+      "yesterday": 50,
+      "delta": 9359,
+      "proportion": {
+        "today": 0.53,
+        "yesterday": 0.0,
+        "delta": 0.53
+      }
+    }
   }
 ]
