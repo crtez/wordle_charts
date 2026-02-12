@@ -14684,5 +14684,19 @@
         "delta": 0.53
       }
     }
+  },
+  {
+    "date": "2026-02-11",
+    "word": "vegan",
+    "guesses": {
+      "today": 11434,
+      "yesterday": 98,
+      "delta": 11336,
+      "proportion": {
+        "today": 0.64,
+        "yesterday": 0.01,
+        "delta": 0.64
+      }
+    }
   }
 ]
