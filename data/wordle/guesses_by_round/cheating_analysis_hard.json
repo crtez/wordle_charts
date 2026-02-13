@@ -14698,5 +14698,19 @@
         "delta": 0.28
       }
     }
+  },
+  {
+    "date": "2026-02-12",
+    "word": "surge",
+    "guesses": {
+      "today": 571,
+      "yesterday": 31,
+      "delta": 540,
+      "proportion": {
+        "today": 0.26,
+        "yesterday": 0.01,
+        "delta": 0.24
+      }
+    }
   }
 ]
