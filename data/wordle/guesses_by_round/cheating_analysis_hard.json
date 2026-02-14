@@ -14712,5 +14712,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-02-13",
+    "word": "mooch",
+    "guesses": {
+      "today": 458,
+      "yesterday": 2,
+      "delta": 456,
+      "proportion": {
+        "today": 0.2,
+        "yesterday": 0.0,
+        "delta": 0.2
+      }
+    }
   }
 ]
