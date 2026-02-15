@@ -14726,5 +14726,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-02-14",
+    "word": "bloom",
+    "guesses": {
+      "today": 492,
+      "yesterday": 3,
+      "delta": 489,
+      "proportion": {
+        "today": 0.21,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
