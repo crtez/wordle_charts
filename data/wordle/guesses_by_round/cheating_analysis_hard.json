@@ -14740,5 +14740,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-02-15",
+    "word": "skull",
+    "guesses": {
+      "today": 442,
+      "yesterday": 2,
+      "delta": 440,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
