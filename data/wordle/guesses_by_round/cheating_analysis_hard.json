@@ -14754,5 +14754,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-02-16",
+    "word": "roost",
+    "guesses": {
+      "today": 409,
+      "yesterday": 1,
+      "delta": 408,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
   }
 ]
