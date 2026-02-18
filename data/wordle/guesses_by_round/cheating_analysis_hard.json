@@ -14768,5 +14768,19 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-02-17",
+    "word": "squad",
+    "guesses": {
+      "today": 477,
+      "yesterday": 10,
+      "delta": 467,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
