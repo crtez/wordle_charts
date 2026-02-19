@@ -14782,5 +14782,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-02-18",
+    "word": "mogul",
+    "guesses": {
+      "today": 516,
+      "yesterday": 10,
+      "delta": 506,
+      "proportion": {
+        "today": 0.24,
+        "yesterday": 0.0,
+        "delta": 0.23
+      }
+    }
   }
 ]
