@@ -14796,5 +14796,19 @@
         "delta": 0.23
       }
     }
+  },
+  {
+    "date": "2026-02-19",
+    "word": "hoist",
+    "guesses": {
+      "today": 816,
+      "yesterday": 235,
+      "delta": 581,
+      "proportion": {
+        "today": 0.37,
+        "yesterday": 0.11,
+        "delta": 0.26
+      }
+    }
   }
 ]
