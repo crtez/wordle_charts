@@ -14810,5 +14810,19 @@
         "delta": 0.54
       }
     }
+  },
+  {
+    "date": "2026-02-20",
+    "word": "stank",
+    "guesses": {
+      "today": 8715,
+      "yesterday": 122,
+      "delta": 8593,
+      "proportion": {
+        "today": 0.49,
+        "yesterday": 0.01,
+        "delta": 0.48
+      }
+    }
   }
 ]
