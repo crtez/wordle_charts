@@ -14824,5 +14824,19 @@
         "delta": 0.22
       }
     }
+  },
+  {
+    "date": "2026-02-21",
+    "word": "awake",
+    "guesses": {
+      "today": 490,
+      "yesterday": 10,
+      "delta": 480,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
