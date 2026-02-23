@@ -14838,5 +14838,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-02-22",
+    "word": "guava",
+    "guesses": {
+      "today": 434,
+      "yesterday": 1,
+      "delta": 433,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
