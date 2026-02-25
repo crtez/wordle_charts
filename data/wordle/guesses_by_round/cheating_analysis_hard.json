@@ -14866,5 +14866,19 @@
         "delta": 0.25
       }
     }
+  },
+  {
+    "date": "2026-02-24",
+    "word": "buyer",
+    "guesses": {
+      "today": 529,
+      "yesterday": 9,
+      "delta": 520,
+      "proportion": {
+        "today": 0.24,
+        "yesterday": 0.0,
+        "delta": 0.24
+      }
+    }
   }
 ]
