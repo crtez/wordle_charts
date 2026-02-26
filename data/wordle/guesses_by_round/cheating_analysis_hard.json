@@ -14880,5 +14880,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-02-25",
+    "word": "shred",
+    "guesses": {
+      "today": 585,
+      "yesterday": 41,
+      "delta": 544,
+      "proportion": {
+        "today": 0.27,
+        "yesterday": 0.02,
+        "delta": 0.25
+      }
+    }
   }
 ]
