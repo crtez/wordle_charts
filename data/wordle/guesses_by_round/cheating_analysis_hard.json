@@ -14894,5 +14894,19 @@
         "delta": 0.25
       }
     }
+  },
+  {
+    "date": "2026-02-26",
+    "word": "lance",
+    "guesses": {
+      "today": 734,
+      "yesterday": 134,
+      "delta": 600,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.06,
+        "delta": 0.28
+      }
+    }
   }
 ]
