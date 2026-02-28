@@ -14908,5 +14908,19 @@
         "delta": 0.59
       }
     }
+  },
+  {
+    "date": "2026-02-27",
+    "word": "dizzy",
+    "guesses": {
+      "today": 11781,
+      "yesterday": 15,
+      "delta": 11766,
+      "proportion": {
+        "today": 0.66,
+        "yesterday": 0.0,
+        "delta": 0.66
+      }
+    }
   }
 ]
