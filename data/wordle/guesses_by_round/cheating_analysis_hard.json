@@ -14922,5 +14922,19 @@
         "delta": 0.28
       }
     }
+  },
+  {
+    "date": "2026-02-28",
+    "word": "hydra",
+    "guesses": {
+      "today": 434,
+      "yesterday": 5,
+      "delta": 429,
+      "proportion": {
+        "today": 0.2,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
