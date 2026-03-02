@@ -14936,5 +14936,19 @@
         "delta": 0.34
       }
     }
+  },
+  {
+    "date": "2026-03-01",
+    "word": "fluke",
+    "guesses": {
+      "today": 5736,
+      "yesterday": 193,
+      "delta": 5543,
+      "proportion": {
+        "today": 0.32,
+        "yesterday": 0.01,
+        "delta": 0.31
+      }
+    }
   }
 ]
