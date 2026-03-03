@@ -14950,5 +14950,19 @@
         "delta": 0.31
       }
     }
+  },
+  {
+    "date": "2026-03-02",
+    "word": "slime",
+    "guesses": {
+      "today": 12364,
+      "yesterday": 991,
+      "delta": 11373,
+      "proportion": {
+        "today": 0.69,
+        "yesterday": 0.06,
+        "delta": 0.64
+      }
+    }
   }
 ]
