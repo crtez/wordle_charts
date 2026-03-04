@@ -14964,5 +14964,19 @@
         "delta": 0.31
       }
     }
+  },
+  {
+    "date": "2026-03-03",
+    "word": "linen",
+    "guesses": {
+      "today": 475,
+      "yesterday": 2,
+      "delta": 473,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.22
+      }
+    }
   }
 ]
