@@ -14978,5 +14978,19 @@
         "delta": 0.55
       }
     }
+  },
+  {
+    "date": "2026-03-04",
+    "word": "theft",
+    "guesses": {
+      "today": 9880,
+      "yesterday": 43,
+      "delta": 9837,
+      "proportion": {
+        "today": 0.55,
+        "yesterday": 0.0,
+        "delta": 0.55
+      }
+    }
   }
 ]
