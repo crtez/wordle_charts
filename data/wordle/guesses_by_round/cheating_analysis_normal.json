@@ -14992,5 +14992,19 @@
         "delta": 0.55
       }
     }
+  },
+  {
+    "date": "2026-03-05",
+    "word": "sheep",
+    "guesses": {
+      "today": 12089,
+      "yesterday": 97,
+      "delta": 11992,
+      "proportion": {
+        "today": 0.68,
+        "yesterday": 0.01,
+        "delta": 0.67
+      }
+    }
   }
 ]
