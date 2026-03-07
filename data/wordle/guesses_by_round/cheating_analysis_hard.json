@@ -15006,5 +15006,19 @@
         "delta": 0.3
       }
     }
+  },
+  {
+    "date": "2026-03-06",
+    "word": "gunky",
+    "guesses": {
+      "today": 487,
+      "yesterday": 1,
+      "delta": 486,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.22
+      }
+    }
   }
 ]
