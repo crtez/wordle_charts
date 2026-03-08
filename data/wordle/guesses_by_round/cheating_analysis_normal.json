@@ -15020,5 +15020,19 @@
         "delta": 0.51
       }
     }
+  },
+  {
+    "date": "2026-03-07",
+    "word": "vogue",
+    "guesses": {
+      "today": 6689,
+      "yesterday": 175,
+      "delta": 6514,
+      "proportion": {
+        "today": 0.38,
+        "yesterday": 0.01,
+        "delta": 0.37
+      }
+    }
   }
 ]
