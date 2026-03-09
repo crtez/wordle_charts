@@ -15034,5 +15034,19 @@
         "delta": 0.22
       }
     }
+  },
+  {
+    "date": "2026-03-08",
+    "word": "lobby",
+    "guesses": {
+      "today": 426,
+      "yesterday": 2,
+      "delta": 424,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
