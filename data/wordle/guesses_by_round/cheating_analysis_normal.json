@@ -15062,5 +15062,19 @@
         "delta": 0.49
       }
     }
+  },
+  {
+    "date": "2026-03-10",
+    "word": "shoal",
+    "guesses": {
+      "today": 9098,
+      "yesterday": 185,
+      "delta": 8913,
+      "proportion": {
+        "today": 0.51,
+        "yesterday": 0.01,
+        "delta": 0.5
+      }
+    }
   }
 ]
