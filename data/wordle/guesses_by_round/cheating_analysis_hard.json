@@ -15076,5 +15076,19 @@
         "delta": 0.25
       }
     }
+  },
+  {
+    "date": "2026-03-11",
+    "word": "teddy",
+    "guesses": {
+      "today": 606,
+      "yesterday": 3,
+      "delta": 603,
+      "proportion": {
+        "today": 0.28,
+        "yesterday": 0.0,
+        "delta": 0.28
+      }
+    }
   }
 ]
