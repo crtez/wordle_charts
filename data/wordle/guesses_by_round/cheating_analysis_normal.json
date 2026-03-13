@@ -15090,5 +15090,19 @@
         "delta": 0.71
       }
     }
+  },
+  {
+    "date": "2026-03-12",
+    "word": "smell",
+    "guesses": {
+      "today": 11281,
+      "yesterday": 45,
+      "delta": 11236,
+      "proportion": {
+        "today": 0.63,
+        "yesterday": 0.0,
+        "delta": 0.63
+      }
+    }
   }
 ]
