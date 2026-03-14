@@ -15104,5 +15104,19 @@
         "delta": 0.63
       }
     }
+  },
+  {
+    "date": "2026-03-13",
+    "word": "eaten",
+    "guesses": {
+      "today": 10088,
+      "yesterday": 35,
+      "delta": 10053,
+      "proportion": {
+        "today": 0.57,
+        "yesterday": 0.0,
+        "delta": 0.56
+      }
+    }
   }
 ]
