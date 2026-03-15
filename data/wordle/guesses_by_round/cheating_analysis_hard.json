@@ -15118,5 +15118,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-03-14",
+    "word": "ankle",
+    "guesses": {
+      "today": 572,
+      "yesterday": 39,
+      "delta": 533,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.02,
+        "delta": 0.24
+      }
+    }
   }
 ]
