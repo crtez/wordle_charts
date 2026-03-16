@@ -15132,5 +15132,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-03-15",
+    "word": "grade",
+    "guesses": {
+      "today": 612,
+      "yesterday": 164,
+      "delta": 448,
+      "proportion": {
+        "today": 0.27,
+        "yesterday": 0.07,
+        "delta": 0.2
+      }
+    }
   }
 ]
