@@ -15146,5 +15146,19 @@
         "delta": 0.37
       }
     }
+  },
+  {
+    "date": "2026-03-16",
+    "word": "drama",
+    "guesses": {
+      "today": 9871,
+      "yesterday": 110,
+      "delta": 9761,
+      "proportion": {
+        "today": 0.55,
+        "yesterday": 0.01,
+        "delta": 0.55
+      }
+    }
   }
 ]
