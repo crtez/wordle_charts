@@ -15160,5 +15160,19 @@
         "delta": 0.55
       }
     }
+  },
+  {
+    "date": "2026-03-17",
+    "word": "clasp",
+    "guesses": {
+      "today": 9483,
+      "yesterday": 646,
+      "delta": 8837,
+      "proportion": {
+        "today": 0.53,
+        "yesterday": 0.04,
+        "delta": 0.5
+      }
+    }
   }
 ]
