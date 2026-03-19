@@ -15174,5 +15174,19 @@
         "delta": 0.5
       }
     }
+  },
+  {
+    "date": "2026-03-18",
+    "word": "amply",
+    "guesses": {
+      "today": 7957,
+      "yesterday": 13,
+      "delta": 7944,
+      "proportion": {
+        "today": 0.45,
+        "yesterday": 0.0,
+        "delta": 0.45
+      }
+    }
   }
 ]
