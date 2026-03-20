@@ -15188,5 +15188,19 @@
         "delta": 0.45
       }
     }
+  },
+  {
+    "date": "2026-03-19",
+    "word": "rehab",
+    "guesses": {
+      "today": 9744,
+      "yesterday": 49,
+      "delta": 9695,
+      "proportion": {
+        "today": 0.55,
+        "yesterday": 0.0,
+        "delta": 0.54
+      }
+    }
   }
 ]
