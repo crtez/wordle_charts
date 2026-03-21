@@ -15202,5 +15202,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-03-20",
+    "word": "oasis",
+    "guesses": {
+      "today": 716,
+      "yesterday": 16,
+      "delta": 700,
+      "proportion": {
+        "today": 0.33,
+        "yesterday": 0.01,
+        "delta": 0.33
+      }
+    }
   }
 ]
