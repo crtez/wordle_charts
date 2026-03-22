@@ -15216,5 +15216,19 @@
         "delta": 0.33
       }
     }
+  },
+  {
+    "date": "2026-03-21",
+    "word": "slick",
+    "guesses": {
+      "today": 545,
+      "yesterday": 39,
+      "delta": 506,
+      "proportion": {
+        "today": 0.24,
+        "yesterday": 0.02,
+        "delta": 0.22
+      }
+    }
   }
 ]
