@@ -15230,5 +15230,19 @@
         "delta": 0.22
       }
     }
+  },
+  {
+    "date": "2026-03-22",
+    "word": "basil",
+    "guesses": {
+      "today": 608,
+      "yesterday": 68,
+      "delta": 540,
+      "proportion": {
+        "today": 0.27,
+        "yesterday": 0.03,
+        "delta": 0.24
+      }
+    }
   }
 ]
