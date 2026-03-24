@@ -15244,5 +15244,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-03-23",
+    "word": "serif",
+    "guesses": {
+      "today": 503,
+      "yesterday": 3,
+      "delta": 500,
+      "proportion": {
+        "today": 0.23,
+        "yesterday": 0.0,
+        "delta": 0.23
+      }
+    }
   }
 ]
