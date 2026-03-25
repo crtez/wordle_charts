@@ -15258,5 +15258,19 @@
         "delta": 0.23
       }
     }
+  },
+  {
+    "date": "2026-03-24",
+    "word": "brood",
+    "guesses": {
+      "today": 450,
+      "yesterday": 0,
+      "delta": 450,
+      "proportion": {
+        "today": 0.21,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
