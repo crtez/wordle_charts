@@ -15272,5 +15272,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-03-25",
+    "word": "wiser",
+    "guesses": {
+      "today": 515,
+      "yesterday": 5,
+      "delta": 510,
+      "proportion": {
+        "today": 0.24,
+        "yesterday": 0.0,
+        "delta": 0.24
+      }
+    }
   }
 ]
