@@ -15286,5 +15286,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-03-26",
+    "word": "befit",
+    "guesses": {
+      "today": 478,
+      "yesterday": 4,
+      "delta": 474,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.22
+      }
+    }
   }
 ]
