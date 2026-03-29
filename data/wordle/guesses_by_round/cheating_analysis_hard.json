@@ -15314,5 +15314,19 @@
         "delta": 0.28
       }
     }
+  },
+  {
+    "date": "2026-03-28",
+    "word": "afoot",
+    "guesses": {
+      "today": 421,
+      "yesterday": 0,
+      "delta": 421,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
