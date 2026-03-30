@@ -15328,5 +15328,19 @@
         "delta": 0.31
       }
     }
+  },
+  {
+    "date": "2026-03-29",
+    "word": "chump",
+    "guesses": {
+      "today": 5896,
+      "yesterday": 214,
+      "delta": 5682,
+      "proportion": {
+        "today": 0.33,
+        "yesterday": 0.01,
+        "delta": 0.32
+      }
+    }
   }
 ]
