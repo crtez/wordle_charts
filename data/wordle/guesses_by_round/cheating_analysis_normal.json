@@ -15356,5 +15356,19 @@
         "delta": 0.54
       }
     }
+  },
+  {
+    "date": "2026-03-31",
+    "word": "swamp",
+    "guesses": {
+      "today": 10201,
+      "yesterday": 318,
+      "delta": 9883,
+      "proportion": {
+        "today": 0.57,
+        "yesterday": 0.02,
+        "delta": 0.55
+      }
+    }
   }
 ]
