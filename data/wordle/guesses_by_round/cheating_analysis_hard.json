@@ -15370,5 +15370,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-04-01",
+    "word": "fizzy",
+    "guesses": {
+      "today": 585,
+      "yesterday": 0,
+      "delta": 585,
+      "proportion": {
+        "today": 0.27,
+        "yesterday": 0.0,
+        "delta": 0.27
+      }
+    }
   }
 ]
