@@ -15384,5 +15384,19 @@
         "delta": 0.27
       }
     }
+  },
+  {
+    "date": "2026-04-02",
+    "word": "sober",
+    "guesses": {
+      "today": 677,
+      "yesterday": 33,
+      "delta": 644,
+      "proportion": {
+        "today": 0.31,
+        "yesterday": 0.02,
+        "delta": 0.3
+      }
+    }
   }
 ]
