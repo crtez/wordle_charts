@@ -15398,5 +15398,19 @@
         "delta": 0.6
       }
     }
+  },
+  {
+    "date": "2026-04-03",
+    "word": "singe",
+    "guesses": {
+      "today": 6457,
+      "yesterday": 96,
+      "delta": 6361,
+      "proportion": {
+        "today": 0.36,
+        "yesterday": 0.01,
+        "delta": 0.36
+      }
+    }
   }
 ]
