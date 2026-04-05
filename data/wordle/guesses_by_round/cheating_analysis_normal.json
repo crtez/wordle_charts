@@ -15412,5 +15412,19 @@
         "delta": 0.36
       }
     }
+  },
+  {
+    "date": "2026-04-04",
+    "word": "sandy",
+    "guesses": {
+      "today": 8250,
+      "yesterday": 281,
+      "delta": 7969,
+      "proportion": {
+        "today": 0.46,
+        "yesterday": 0.02,
+        "delta": 0.45
+      }
+    }
   }
 ]
