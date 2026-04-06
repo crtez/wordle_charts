@@ -15426,5 +15426,19 @@
         "delta": 0.45
       }
     }
+  },
+  {
+    "date": "2026-04-05",
+    "word": "envoy",
+    "guesses": {
+      "today": 5948,
+      "yesterday": 35,
+      "delta": 5913,
+      "proportion": {
+        "today": 0.33,
+        "yesterday": 0.0,
+        "delta": 0.33
+      }
+    }
   }
 ]
