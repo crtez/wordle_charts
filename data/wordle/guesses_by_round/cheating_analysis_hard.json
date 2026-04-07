@@ -15440,5 +15440,19 @@
         "delta": 0.17
       }
     }
+  },
+  {
+    "date": "2026-04-06",
+    "word": "sworn",
+    "guesses": {
+      "today": 370,
+      "yesterday": 6,
+      "delta": 364,
+      "proportion": {
+        "today": 0.17,
+        "yesterday": 0.0,
+        "delta": 0.17
+      }
+    }
   }
 ]
