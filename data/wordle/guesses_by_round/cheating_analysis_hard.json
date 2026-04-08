@@ -15454,5 +15454,19 @@
         "delta": 0.17
       }
     }
+  },
+  {
+    "date": "2026-04-07",
+    "word": "dense",
+    "guesses": {
+      "today": 470,
+      "yesterday": 0,
+      "delta": 470,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.22
+      }
+    }
   }
 ]
