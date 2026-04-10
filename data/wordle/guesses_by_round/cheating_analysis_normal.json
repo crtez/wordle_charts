@@ -15482,5 +15482,19 @@
         "delta": 0.45
       }
     }
+  },
+  {
+    "date": "2026-04-09",
+    "word": "laden",
+    "guesses": {
+      "today": 8011,
+      "yesterday": 82,
+      "delta": 7929,
+      "proportion": {
+        "today": 0.45,
+        "yesterday": 0.0,
+        "delta": 0.44
+      }
+    }
   }
 ]
