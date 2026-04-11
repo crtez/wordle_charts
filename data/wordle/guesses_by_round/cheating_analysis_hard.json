@@ -15496,5 +15496,19 @@
         "delta": 0.23
       }
     }
+  },
+  {
+    "date": "2026-04-10",
+    "word": "carom",
+    "guesses": {
+      "today": 470,
+      "yesterday": 4,
+      "delta": 466,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
