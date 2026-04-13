@@ -15524,5 +15524,19 @@
         "delta": 0.3
       }
     }
+  },
+  {
+    "date": "2026-04-12",
+    "word": "alley",
+    "guesses": {
+      "today": 6230,
+      "yesterday": 20,
+      "delta": 6210,
+      "proportion": {
+        "today": 0.35,
+        "yesterday": 0.0,
+        "delta": 0.35
+      }
+    }
   }
 ]
