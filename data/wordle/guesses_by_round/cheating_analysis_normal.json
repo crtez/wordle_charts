@@ -15538,5 +15538,19 @@
         "delta": 0.35
       }
     }
+  },
+  {
+    "date": "2026-04-13",
+    "word": "elfin",
+    "guesses": {
+      "today": 8576,
+      "yesterday": 18,
+      "delta": 8558,
+      "proportion": {
+        "today": 0.48,
+        "yesterday": 0.0,
+        "delta": 0.48
+      }
+    }
   }
 ]
