@@ -15552,5 +15552,19 @@
         "delta": 0.48
       }
     }
+  },
+  {
+    "date": "2026-04-14",
+    "word": "cycle",
+    "guesses": {
+      "today": 10362,
+      "yesterday": 63,
+      "delta": 10299,
+      "proportion": {
+        "today": 0.58,
+        "yesterday": 0.0,
+        "delta": 0.58
+      }
+    }
   }
 ]
