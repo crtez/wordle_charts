@@ -15566,5 +15566,19 @@
         "delta": 0.26
       }
     }
+  },
+  {
+    "date": "2026-04-15",
+    "word": "begun",
+    "guesses": {
+      "today": 462,
+      "yesterday": 2,
+      "delta": 460,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
