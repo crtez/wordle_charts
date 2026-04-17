@@ -15580,5 +15580,19 @@
         "delta": 0.47
       }
     }
+  },
+  {
+    "date": "2026-04-16",
+    "word": "cubit",
+    "guesses": {
+      "today": 8755,
+      "yesterday": 39,
+      "delta": 8716,
+      "proportion": {
+        "today": 0.49,
+        "yesterday": 0.0,
+        "delta": 0.49
+      }
+    }
   }
 ]
