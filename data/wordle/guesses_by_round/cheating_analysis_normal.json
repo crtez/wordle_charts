@@ -15594,5 +15594,19 @@
         "delta": 0.49
       }
     }
+  },
+  {
+    "date": "2026-04-17",
+    "word": "belle",
+    "guesses": {
+      "today": 10627,
+      "yesterday": 28,
+      "delta": 10599,
+      "proportion": {
+        "today": 0.6,
+        "yesterday": 0.0,
+        "delta": 0.59
+      }
+    }
   }
 ]
