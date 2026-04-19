@@ -15608,5 +15608,19 @@
         "delta": 0.59
       }
     }
+  },
+  {
+    "date": "2026-04-18",
+    "word": "toady",
+    "guesses": {
+      "today": 5592,
+      "yesterday": 51,
+      "delta": 5541,
+      "proportion": {
+        "today": 0.31,
+        "yesterday": 0.0,
+        "delta": 0.31
+      }
+    }
   }
 ]
