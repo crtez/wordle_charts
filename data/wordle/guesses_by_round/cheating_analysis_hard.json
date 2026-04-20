@@ -15622,5 +15622,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-04-19",
+    "word": "stand",
+    "guesses": {
+      "today": 762,
+      "yesterday": 174,
+      "delta": 588,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.08,
+        "delta": 0.27
+      }
+    }
   }
 ]
