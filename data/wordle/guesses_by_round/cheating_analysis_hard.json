@@ -15636,5 +15636,19 @@
         "delta": 0.27
       }
     }
+  },
+  {
+    "date": "2026-04-20",
+    "word": "weave",
+    "guesses": {
+      "today": 556,
+      "yesterday": 5,
+      "delta": 551,
+      "proportion": {
+        "today": 0.26,
+        "yesterday": 0.0,
+        "delta": 0.26
+      }
+    }
   }
 ]
