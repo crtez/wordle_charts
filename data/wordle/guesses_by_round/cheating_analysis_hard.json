@@ -15650,5 +15650,19 @@
         "delta": 0.26
       }
     }
+  },
+  {
+    "date": "2026-04-21",
+    "word": "clump",
+    "guesses": {
+      "today": 480,
+      "yesterday": 40,
+      "delta": 440,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.02,
+        "delta": 0.2
+      }
+    }
   }
 ]
