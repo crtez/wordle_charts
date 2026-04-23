@@ -15664,5 +15664,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-04-22",
+    "word": "snore",
+    "guesses": {
+      "today": 843,
+      "yesterday": 189,
+      "delta": 654,
+      "proportion": {
+        "today": 0.39,
+        "yesterday": 0.09,
+        "delta": 0.3
+      }
+    }
   }
 ]
