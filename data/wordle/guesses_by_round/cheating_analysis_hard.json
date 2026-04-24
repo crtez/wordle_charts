@@ -15678,5 +15678,19 @@
         "delta": 0.3
       }
     }
+  },
+  {
+    "date": "2026-04-23",
+    "word": "tweet",
+    "guesses": {
+      "today": 539,
+      "yesterday": 0,
+      "delta": 539,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.0,
+        "delta": 0.25
+      }
+    }
   }
 ]
