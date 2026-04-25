@@ -15692,5 +15692,19 @@
         "delta": 0.25
       }
     }
+  },
+  {
+    "date": "2026-04-24",
+    "word": "drunk",
+    "guesses": {
+      "today": 908,
+      "yesterday": 33,
+      "delta": 875,
+      "proportion": {
+        "today": 0.42,
+        "yesterday": 0.02,
+        "delta": 0.4
+      }
+    }
   }
 ]
