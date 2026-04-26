@@ -15706,5 +15706,19 @@
         "delta": 0.88
       }
     }
+  },
+  {
+    "date": "2026-04-25",
+    "word": "women",
+    "guesses": {
+      "today": 6183,
+      "yesterday": 115,
+      "delta": 6068,
+      "proportion": {
+        "today": 0.35,
+        "yesterday": 0.01,
+        "delta": 0.34
+      }
+    }
   }
 ]
