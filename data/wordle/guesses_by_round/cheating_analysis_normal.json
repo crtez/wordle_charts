@@ -15720,5 +15720,19 @@
         "delta": 0.34
       }
     }
+  },
+  {
+    "date": "2026-04-26",
+    "word": "gloss",
+    "guesses": {
+      "today": 5663,
+      "yesterday": 16,
+      "delta": 5647,
+      "proportion": {
+        "today": 0.32,
+        "yesterday": 0.0,
+        "delta": 0.32
+      }
+    }
   }
 ]
