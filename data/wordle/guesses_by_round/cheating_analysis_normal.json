@@ -15734,5 +15734,19 @@
         "delta": 0.32
       }
     }
+  },
+  {
+    "date": "2026-04-27",
+    "word": "eerie",
+    "guesses": {
+      "today": 11913,
+      "yesterday": 18,
+      "delta": 11895,
+      "proportion": {
+        "today": 0.67,
+        "yesterday": 0.0,
+        "delta": 0.67
+      }
+    }
   }
 ]
