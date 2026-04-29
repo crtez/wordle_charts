@@ -15748,5 +15748,19 @@
         "delta": 0.28
       }
     }
+  },
+  {
+    "date": "2026-04-28",
+    "word": "quack",
+    "guesses": {
+      "today": 670,
+      "yesterday": 17,
+      "delta": 653,
+      "proportion": {
+        "today": 0.31,
+        "yesterday": 0.01,
+        "delta": 0.3
+      }
+    }
   }
 ]
