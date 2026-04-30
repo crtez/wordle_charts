@@ -15762,5 +15762,19 @@
         "delta": 0.69
       }
     }
+  },
+  {
+    "date": "2026-04-29",
+    "word": "rural",
+    "guesses": {
+      "today": 10420,
+      "yesterday": 36,
+      "delta": 10384,
+      "proportion": {
+        "today": 0.58,
+        "yesterday": 0.0,
+        "delta": 0.58
+      }
+    }
   }
 ]
