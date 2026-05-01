@@ -15776,5 +15776,19 @@
         "delta": 0.58
       }
     }
+  },
+  {
+    "date": "2026-04-30",
+    "word": "crock",
+    "guesses": {
+      "today": 10809,
+      "yesterday": 30,
+      "delta": 10779,
+      "proportion": {
+        "today": 0.61,
+        "yesterday": 0.0,
+        "delta": 0.6
+      }
+    }
   }
 ]
