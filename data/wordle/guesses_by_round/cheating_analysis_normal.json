@@ -15790,5 +15790,19 @@
         "delta": 0.6
       }
     }
+  },
+  {
+    "date": "2026-05-01",
+    "word": "plume",
+    "guesses": {
+      "today": 11127,
+      "yesterday": 423,
+      "delta": 10704,
+      "proportion": {
+        "today": 0.62,
+        "yesterday": 0.02,
+        "delta": 0.6
+      }
+    }
   }
 ]
