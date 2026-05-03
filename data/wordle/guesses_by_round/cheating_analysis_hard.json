@@ -15804,5 +15804,19 @@
         "delta": 0.28
       }
     }
+  },
+  {
+    "date": "2026-05-02",
+    "word": "bring",
+    "guesses": {
+      "today": 518,
+      "yesterday": 70,
+      "delta": 448,
+      "proportion": {
+        "today": 0.23,
+        "yesterday": 0.03,
+        "delta": 0.2
+      }
+    }
   }
 ]
