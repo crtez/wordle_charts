@@ -15818,5 +15818,19 @@
         "delta": 0.35
       }
     }
+  },
+  {
+    "date": "2026-05-03",
+    "word": "puffy",
+    "guesses": {
+      "today": 6190,
+      "yesterday": 15,
+      "delta": 6175,
+      "proportion": {
+        "today": 0.35,
+        "yesterday": 0.0,
+        "delta": 0.35
+      }
+    }
   }
 ]
