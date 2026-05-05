@@ -15832,5 +15832,19 @@
         "delta": 0.35
       }
     }
+  },
+  {
+    "date": "2026-05-04",
+    "word": "riser",
+    "guesses": {
+      "today": 9108,
+      "yesterday": 15,
+      "delta": 9093,
+      "proportion": {
+        "today": 0.51,
+        "yesterday": 0.0,
+        "delta": 0.51
+      }
+    }
   }
 ]
