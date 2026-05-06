@@ -15846,5 +15846,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-05-05",
+    "word": "latch",
+    "guesses": {
+      "today": 591,
+      "yesterday": 44,
+      "delta": 547,
+      "proportion": {
+        "today": 0.28,
+        "yesterday": 0.02,
+        "delta": 0.26
+      }
+    }
   }
 ]
