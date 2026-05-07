@@ -15860,5 +15860,19 @@
         "delta": 0.59
       }
     }
+  },
+  {
+    "date": "2026-05-06",
+    "word": "liken",
+    "guesses": {
+      "today": 9469,
+      "yesterday": 57,
+      "delta": 9412,
+      "proportion": {
+        "today": 0.53,
+        "yesterday": 0.0,
+        "delta": 0.53
+      }
+    }
   }
 ]
