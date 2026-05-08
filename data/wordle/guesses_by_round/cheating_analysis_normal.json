@@ -15874,5 +15874,19 @@
         "delta": 0.53
       }
     }
+  },
+  {
+    "date": "2026-05-07",
+    "word": "budge",
+    "guesses": {
+      "today": 9921,
+      "yesterday": 119,
+      "delta": 9802,
+      "proportion": {
+        "today": 0.56,
+        "yesterday": 0.01,
+        "delta": 0.55
+      }
+    }
   }
 ]
