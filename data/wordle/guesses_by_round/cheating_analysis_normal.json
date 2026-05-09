@@ -15888,5 +15888,19 @@
         "delta": 0.55
       }
     }
+  },
+  {
+    "date": "2026-05-08",
+    "word": "umbra",
+    "guesses": {
+      "today": 10285,
+      "yesterday": 20,
+      "delta": 10265,
+      "proportion": {
+        "today": 0.58,
+        "yesterday": 0.0,
+        "delta": 0.57
+      }
+    }
   }
 ]
