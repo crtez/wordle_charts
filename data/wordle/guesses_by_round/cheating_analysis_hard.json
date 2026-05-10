@@ -15902,5 +15902,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-05-09",
+    "word": "satin",
+    "guesses": {
+      "today": 757,
+      "yesterday": 187,
+      "delta": 570,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.09,
+        "delta": 0.25
+      }
+    }
   }
 ]
