@@ -15916,5 +15916,33 @@
         "delta": 0.25
       }
     }
+  },
+  {
+    "date": "2026-05-10",
+    "word": "parka",
+    "guesses": {
+      "today": 424,
+      "yesterday": 1,
+      "delta": 423,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
+  },
+  {
+    "date": "2026-05-11",
+    "word": "newly",
+    "guesses": {
+      "today": 391,
+      "yesterday": 4,
+      "delta": 387,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
   }
 ]
