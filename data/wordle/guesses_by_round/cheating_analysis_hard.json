@@ -15944,5 +15944,33 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-05-12",
+    "word": "clock",
+    "guesses": {
+      "today": 652,
+      "yesterday": 10,
+      "delta": 642,
+      "proportion": {
+        "today": 0.3,
+        "yesterday": 0.0,
+        "delta": 0.3
+      }
+    }
+  },
+  {
+    "date": "2026-05-13",
+    "word": "dowdy",
+    "guesses": {
+      "today": 365,
+      "yesterday": 1,
+      "delta": 364,
+      "proportion": {
+        "today": 0.17,
+        "yesterday": 0.0,
+        "delta": 0.17
+      }
+    }
   }
 ]
