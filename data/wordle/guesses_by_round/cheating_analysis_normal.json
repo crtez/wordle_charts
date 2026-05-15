@@ -15972,5 +15972,19 @@
         "delta": 0.34
       }
     }
+  },
+  {
+    "date": "2026-05-14",
+    "word": "waver",
+    "guesses": {
+      "today": 9967,
+      "yesterday": 35,
+      "delta": 9932,
+      "proportion": {
+        "today": 0.56,
+        "yesterday": 0.0,
+        "delta": 0.56
+      }
+    }
   }
 ]
