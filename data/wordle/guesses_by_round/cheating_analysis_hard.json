@@ -15986,5 +15986,19 @@
         "delta": 0.25
       }
     }
+  },
+  {
+    "date": "2026-05-15",
+    "word": "creed",
+    "guesses": {
+      "today": 594,
+      "yesterday": 0,
+      "delta": 594,
+      "proportion": {
+        "today": 0.27,
+        "yesterday": 0.0,
+        "delta": 0.27
+      }
+    }
   }
 ]
