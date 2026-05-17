@@ -16000,5 +16000,19 @@
         "delta": 0.61
       }
     }
+  },
+  {
+    "date": "2026-05-16",
+    "word": "mover",
+    "guesses": {
+      "today": 6087,
+      "yesterday": 125,
+      "delta": 5962,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.01,
+        "delta": 0.34
+      }
+    }
   }
 ]
