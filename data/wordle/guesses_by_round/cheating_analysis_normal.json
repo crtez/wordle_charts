@@ -16014,5 +16014,33 @@
         "delta": 0.34
       }
     }
+  },
+  {
+    "date": "2026-05-17",
+    "word": "bylaw",
+    "guesses": {
+      "today": 5971,
+      "yesterday": 40,
+      "delta": 5931,
+      "proportion": {
+        "today": 0.33,
+        "yesterday": 0.0,
+        "delta": 0.33
+      }
+    }
+  },
+  {
+    "date": "2026-05-18",
+    "word": "loath",
+    "guesses": {
+      "today": 7304,
+      "yesterday": 189,
+      "delta": 7115,
+      "proportion": {
+        "today": 0.41,
+        "yesterday": 0.01,
+        "delta": 0.4
+      }
+    }
   }
 ]
