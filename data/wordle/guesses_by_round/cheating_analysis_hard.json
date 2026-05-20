@@ -16056,5 +16056,19 @@
         "delta": 0.23
       }
     }
+  },
+  {
+    "date": "2026-05-20",
+    "word": "wreck",
+    "guesses": {
+      "today": 527,
+      "yesterday": 53,
+      "delta": 474,
+      "proportion": {
+        "today": 0.24,
+        "yesterday": 0.02,
+        "delta": 0.22
+      }
+    }
   }
 ]
