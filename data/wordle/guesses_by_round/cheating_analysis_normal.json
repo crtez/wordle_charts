@@ -16070,5 +16070,19 @@
         "delta": 0.39
       }
     }
+  },
+  {
+    "date": "2026-05-21",
+    "word": "agree",
+    "guesses": {
+      "today": 7674,
+      "yesterday": 32,
+      "delta": 7642,
+      "proportion": {
+        "today": 0.43,
+        "yesterday": 0.0,
+        "delta": 0.43
+      }
+    }
   }
 ]
