@@ -16084,5 +16084,19 @@
         "delta": 0.43
       }
     }
+  },
+  {
+    "date": "2026-05-22",
+    "word": "vocal",
+    "guesses": {
+      "today": 6599,
+      "yesterday": 81,
+      "delta": 6518,
+      "proportion": {
+        "today": 0.37,
+        "yesterday": 0.0,
+        "delta": 0.37
+      }
+    }
   }
 ]
