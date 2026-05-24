@@ -16098,5 +16098,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-05-23",
+    "word": "chuck",
+    "guesses": {
+      "today": 483,
+      "yesterday": 5,
+      "delta": 478,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
