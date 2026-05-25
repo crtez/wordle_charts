@@ -16112,5 +16112,33 @@
         "delta": 0.37
       }
     }
+  },
+  {
+    "date": "2026-05-24",
+    "word": "niece",
+    "guesses": {
+      "today": 7107,
+      "yesterday": 48,
+      "delta": 7059,
+      "proportion": {
+        "today": 0.4,
+        "yesterday": 0.0,
+        "delta": 0.4
+      }
+    }
+  },
+  {
+    "date": "2026-05-25",
+    "word": "visit",
+    "guesses": {
+      "today": 7069,
+      "yesterday": 68,
+      "delta": 7001,
+      "proportion": {
+        "today": 0.4,
+        "yesterday": 0.0,
+        "delta": 0.39
+      }
+    }
   }
 ]
