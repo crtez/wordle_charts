@@ -16140,5 +16140,33 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-05-26",
+    "word": "couch",
+    "guesses": {
+      "today": 922,
+      "yesterday": 17,
+      "delta": 905,
+      "proportion": {
+        "today": 0.42,
+        "yesterday": 0.01,
+        "delta": 0.41
+      }
+    }
+  },
+  {
+    "date": "2026-05-27",
+    "word": "stuff",
+    "guesses": {
+      "today": 483,
+      "yesterday": 6,
+      "delta": 477,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
