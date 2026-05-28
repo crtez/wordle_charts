@@ -16168,5 +16168,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-05-28",
+    "word": "divot",
+    "guesses": {
+      "today": 396,
+      "yesterday": 8,
+      "delta": 388,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
   }
 ]
