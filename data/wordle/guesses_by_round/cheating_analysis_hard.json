@@ -16182,5 +16182,19 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-05-29",
+    "word": "clang",
+    "guesses": {
+      "today": 414,
+      "yesterday": 12,
+      "delta": 402,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.01,
+        "delta": 0.18
+      }
+    }
   }
 ]
