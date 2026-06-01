@@ -16210,5 +16210,33 @@
         "delta": 0.54
       }
     }
+  },
+  {
+    "date": "2026-05-31",
+    "word": "etude",
+    "guesses": {
+      "today": 5640,
+      "yesterday": 12,
+      "delta": 5628,
+      "proportion": {
+        "today": 0.32,
+        "yesterday": 0.0,
+        "delta": 0.32
+      }
+    }
+  },
+  {
+    "date": "2026-06-01",
+    "word": "chili",
+    "guesses": {
+      "today": 7295,
+      "yesterday": 26,
+      "delta": 7269,
+      "proportion": {
+        "today": 0.41,
+        "yesterday": 0.0,
+        "delta": 0.41
+      }
+    }
   }
 ]
