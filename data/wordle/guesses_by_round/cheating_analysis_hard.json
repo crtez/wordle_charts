@@ -16238,5 +16238,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-06-02",
+    "word": "basis",
+    "guesses": {
+      "today": 412,
+      "yesterday": 1,
+      "delta": 411,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
