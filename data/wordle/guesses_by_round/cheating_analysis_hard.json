@@ -16252,5 +16252,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-06-03",
+    "word": "notch",
+    "guesses": {
+      "today": 405,
+      "yesterday": 3,
+      "delta": 402,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
   }
 ]
