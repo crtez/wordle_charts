@@ -16280,5 +16280,19 @@
         "delta": 0.39
       }
     }
+  },
+  {
+    "date": "2026-06-05",
+    "word": "nobly",
+    "guesses": {
+      "today": 5860,
+      "yesterday": 4,
+      "delta": 5856,
+      "proportion": {
+        "today": 0.33,
+        "yesterday": 0.0,
+        "delta": 0.33
+      }
+    }
   }
 ]
