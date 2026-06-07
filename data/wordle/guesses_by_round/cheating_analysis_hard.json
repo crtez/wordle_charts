@@ -16294,5 +16294,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-06-06",
+    "word": "morph",
+    "guesses": {
+      "today": 440,
+      "yesterday": 12,
+      "delta": 428,
+      "proportion": {
+        "today": 0.2,
+        "yesterday": 0.01,
+        "delta": 0.19
+      }
+    }
   }
 ]
