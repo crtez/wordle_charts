@@ -16308,5 +16308,33 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-06-07",
+    "word": "thumb",
+    "guesses": {
+      "today": 491,
+      "yesterday": 18,
+      "delta": 473,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.01,
+        "delta": 0.21
+      }
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "word": "mafia",
+    "guesses": {
+      "today": 448,
+      "yesterday": 1,
+      "delta": 447,
+      "proportion": {
+        "today": 0.21,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
