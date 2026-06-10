@@ -16350,5 +16350,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-06-10",
+    "word": "align",
+    "guesses": {
+      "today": 620,
+      "yesterday": 73,
+      "delta": 547,
+      "proportion": {
+        "today": 0.28,
+        "yesterday": 0.03,
+        "delta": 0.25
+      }
+    }
   }
 ]
