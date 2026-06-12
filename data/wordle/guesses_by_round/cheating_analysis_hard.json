@@ -16378,5 +16378,19 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-06-12",
+    "word": "break",
+    "guesses": {
+      "today": 843,
+      "yesterday": 295,
+      "delta": 548,
+      "proportion": {
+        "today": 0.38,
+        "yesterday": 0.13,
+        "delta": 0.25
+      }
+    }
   }
 ]
