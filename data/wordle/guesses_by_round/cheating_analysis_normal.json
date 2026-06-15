@@ -16406,5 +16406,33 @@
         "delta": 0.31
       }
     }
+  },
+  {
+    "date": "2026-06-14",
+    "word": "sepia",
+    "guesses": {
+      "today": 6830,
+      "yesterday": 579,
+      "delta": 6251,
+      "proportion": {
+        "today": 0.38,
+        "yesterday": 0.03,
+        "delta": 0.35
+      }
+    }
+  },
+  {
+    "date": "2026-06-15",
+    "word": "broil",
+    "guesses": {
+      "today": 6953,
+      "yesterday": 312,
+      "delta": 6641,
+      "proportion": {
+        "today": 0.39,
+        "yesterday": 0.02,
+        "delta": 0.37
+      }
+    }
   }
 ]
