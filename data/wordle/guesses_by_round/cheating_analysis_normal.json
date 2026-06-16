@@ -16434,5 +16434,19 @@
         "delta": 0.37
       }
     }
+  },
+  {
+    "date": "2026-06-16",
+    "word": "amaze",
+    "guesses": {
+      "today": 7407,
+      "yesterday": 68,
+      "delta": 7339,
+      "proportion": {
+        "today": 0.42,
+        "yesterday": 0.0,
+        "delta": 0.41
+      }
+    }
   }
 ]
