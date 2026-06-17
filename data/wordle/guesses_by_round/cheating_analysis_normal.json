@@ -16448,5 +16448,19 @@
         "delta": 0.41
       }
     }
+  },
+  {
+    "date": "2026-06-17",
+    "word": "token",
+    "guesses": {
+      "today": 6779,
+      "yesterday": 113,
+      "delta": 6666,
+      "proportion": {
+        "today": 0.38,
+        "yesterday": 0.01,
+        "delta": 0.38
+      }
+    }
   }
 ]
