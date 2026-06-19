@@ -16476,5 +16476,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-06-19",
+    "word": "emoji",
+    "guesses": {
+      "today": 585,
+      "yesterday": 1,
+      "delta": 584,
+      "proportion": {
+        "today": 0.27,
+        "yesterday": 0.0,
+        "delta": 0.27
+      }
+    }
   }
 ]
