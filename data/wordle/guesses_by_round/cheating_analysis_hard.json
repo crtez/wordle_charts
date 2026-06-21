@@ -16490,5 +16490,33 @@
         "delta": 0.27
       }
     }
+  },
+  {
+    "date": "2026-06-20",
+    "word": "drake",
+    "guesses": {
+      "today": 624,
+      "yesterday": 31,
+      "delta": 593,
+      "proportion": {
+        "today": 0.28,
+        "yesterday": 0.01,
+        "delta": 0.26
+      }
+    }
+  },
+  {
+    "date": "2026-06-21",
+    "word": "alibi",
+    "guesses": {
+      "today": 531,
+      "yesterday": 7,
+      "delta": 524,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.0,
+        "delta": 0.25
+      }
+    }
   }
 ]
