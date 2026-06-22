@@ -16518,5 +16518,19 @@
         "delta": 0.25
       }
     }
+  },
+  {
+    "date": "2026-06-22",
+    "word": "ovate",
+    "guesses": {
+      "today": 439,
+      "yesterday": 4,
+      "delta": 435,
+      "proportion": {
+        "today": 0.2,
+        "yesterday": 0.0,
+        "delta": 0.2
+      }
+    }
   }
 ]
