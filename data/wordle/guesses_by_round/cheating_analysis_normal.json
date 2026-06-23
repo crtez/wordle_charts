@@ -16532,5 +16532,19 @@
         "delta": 0.33
       }
     }
+  },
+  {
+    "date": "2026-06-23",
+    "word": "curry",
+    "guesses": {
+      "today": 7461,
+      "yesterday": 13,
+      "delta": 7448,
+      "proportion": {
+        "today": 0.42,
+        "yesterday": 0.0,
+        "delta": 0.42
+      }
+    }
   }
 ]
