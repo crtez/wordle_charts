@@ -16546,5 +16546,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-06-24",
+    "word": "queer",
+    "guesses": {
+      "today": 501,
+      "yesterday": 7,
+      "delta": 494,
+      "proportion": {
+        "today": 0.23,
+        "yesterday": 0.0,
+        "delta": 0.22
+      }
+    }
   }
 ]
