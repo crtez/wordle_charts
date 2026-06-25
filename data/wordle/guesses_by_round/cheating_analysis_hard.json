@@ -16560,5 +16560,19 @@
         "delta": 0.22
       }
     }
+  },
+  {
+    "date": "2026-06-25",
+    "word": "unity",
+    "guesses": {
+      "today": 540,
+      "yesterday": 63,
+      "delta": 477,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.03,
+        "delta": 0.22
+      }
+    }
   }
 ]
