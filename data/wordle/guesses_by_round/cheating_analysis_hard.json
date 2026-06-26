@@ -16574,5 +16574,19 @@
         "delta": 0.22
       }
     }
+  },
+  {
+    "date": "2026-06-26",
+    "word": "acute",
+    "guesses": {
+      "today": 718,
+      "yesterday": 104,
+      "delta": 614,
+      "proportion": {
+        "today": 0.33,
+        "yesterday": 0.05,
+        "delta": 0.29
+      }
+    }
   }
 ]
