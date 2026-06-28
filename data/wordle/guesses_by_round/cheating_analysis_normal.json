@@ -16588,5 +16588,19 @@
         "delta": 0.44
       }
     }
+  },
+  {
+    "date": "2026-06-27",
+    "word": "scoop",
+    "guesses": {
+      "today": 5872,
+      "yesterday": 25,
+      "delta": 5847,
+      "proportion": {
+        "today": 0.33,
+        "yesterday": 0.0,
+        "delta": 0.33
+      }
+    }
   }
 ]
