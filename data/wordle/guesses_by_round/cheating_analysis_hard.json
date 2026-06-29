@@ -16602,5 +16602,33 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-06-28",
+    "word": "emcee",
+    "guesses": {
+      "today": 508,
+      "yesterday": 2,
+      "delta": 506,
+      "proportion": {
+        "today": 0.23,
+        "yesterday": 0.0,
+        "delta": 0.23
+      }
+    }
+  },
+  {
+    "date": "2026-06-29",
+    "word": "crude",
+    "guesses": {
+      "today": 512,
+      "yesterday": 37,
+      "delta": 475,
+      "proportion": {
+        "today": 0.23,
+        "yesterday": 0.02,
+        "delta": 0.21
+      }
+    }
   }
 ]
