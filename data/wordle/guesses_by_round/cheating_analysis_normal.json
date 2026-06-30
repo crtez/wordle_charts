@@ -16630,5 +16630,19 @@
         "delta": 0.34
       }
     }
+  },
+  {
+    "date": "2026-06-30",
+    "word": "puppy",
+    "guesses": {
+      "today": 8244,
+      "yesterday": 22,
+      "delta": 8222,
+      "proportion": {
+        "today": 0.46,
+        "yesterday": 0.0,
+        "delta": 0.46
+      }
+    }
   }
 ]
