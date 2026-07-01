@@ -16644,5 +16644,19 @@
         "delta": 0.46
       }
     }
+  },
+  {
+    "date": "2026-07-01",
+    "word": "demur",
+    "guesses": {
+      "today": 5460,
+      "yesterday": 16,
+      "delta": 5444,
+      "proportion": {
+        "today": 0.31,
+        "yesterday": 0.0,
+        "delta": 0.31
+      }
+    }
   }
 ]
