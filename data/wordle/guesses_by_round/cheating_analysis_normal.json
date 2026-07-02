@@ -16658,5 +16658,19 @@
         "delta": 0.31
       }
     }
+  },
+  {
+    "date": "2026-07-02",
+    "word": "maven",
+    "guesses": {
+      "today": 6006,
+      "yesterday": 23,
+      "delta": 5983,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.0,
+        "delta": 0.34
+      }
+    }
   }
 ]
