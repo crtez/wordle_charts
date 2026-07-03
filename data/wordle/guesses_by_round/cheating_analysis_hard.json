@@ -16672,5 +16672,19 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-07-03",
+    "word": "baton",
+    "guesses": {
+      "today": 510,
+      "yesterday": 13,
+      "delta": 497,
+      "proportion": {
+        "today": 0.23,
+        "yesterday": 0.01,
+        "delta": 0.23
+      }
+    }
   }
 ]
