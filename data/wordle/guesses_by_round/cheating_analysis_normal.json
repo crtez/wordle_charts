@@ -16686,5 +16686,19 @@
         "delta": 0.35
       }
     }
+  },
+  {
+    "date": "2026-07-04",
+    "word": "pizza",
+    "guesses": {
+      "today": 9282,
+      "yesterday": 79,
+      "delta": 9203,
+      "proportion": {
+        "today": 0.52,
+        "yesterday": 0.0,
+        "delta": 0.52
+      }
+    }
   }
 ]
