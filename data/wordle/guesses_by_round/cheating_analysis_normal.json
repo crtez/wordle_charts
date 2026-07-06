@@ -16700,5 +16700,33 @@
         "delta": 0.52
       }
     }
+  },
+  {
+    "date": "2026-07-05",
+    "word": "swami",
+    "guesses": {
+      "today": 5574,
+      "yesterday": 13,
+      "delta": 5561,
+      "proportion": {
+        "today": 0.31,
+        "yesterday": 0.0,
+        "delta": 0.31
+      }
+    }
+  },
+  {
+    "date": "2026-07-06",
+    "word": "toddy",
+    "guesses": {
+      "today": 5619,
+      "yesterday": 11,
+      "delta": 5608,
+      "proportion": {
+        "today": 0.32,
+        "yesterday": 0.0,
+        "delta": 0.32
+      }
+    }
   }
 ]
