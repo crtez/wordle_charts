@@ -41,7 +41,7 @@ for date_obj in missing_dates:
     days_since_launch = data['days_since_launch']
 
     # Step 2: Fetch the summary data
-    summary_url = f"https://static01.nyt.com/newsgraphics/2022/2022-01-25-wordle-solver/{solution}/summary.json"
+    summary_url = f"https://static01.nyt.com/newsgraphics/2022/wordlebot/{solution}-{date_str}/summary.json"
     summary_response = requests.get(summary_url)
     if summary_response.status_code != 200:
         print(f"Failed to fetch summary for solution {solution} on {date_str}")
