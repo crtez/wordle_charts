@@ -62,7 +62,7 @@ for date_obj in dates_to_process:
 
     # Step 2: Fetch both normal and hard mode data
     for mode in ['normal', 'hard']:
-        url = f"https://static01.nyt.com/newsgraphics/2022/2022-01-25-wordle-solver/{solution}/guesses-by-round-{mode}.json"
+        url = f"https://static01.nyt.com/newsgraphics/2022/wordlebot/{solution}-{date_str}/guesses-by-round-{mode}.json"
         response = requests.get(url)
         if response.status_code != 200:
             print(f"Failed to fetch {mode} mode data for solution {solution} on {date_str}")

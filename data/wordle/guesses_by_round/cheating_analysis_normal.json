@@ -16742,5 +16742,19 @@
         "delta": 0.3
       }
     }
+  },
+  {
+    "date": "2026-07-08",
+    "word": "demon",
+    "guesses": {
+      "today": 6524,
+      "yesterday": 159,
+      "delta": 6365,
+      "proportion": {
+        "today": 0.37,
+        "yesterday": 0.01,
+        "delta": 0.36
+      }
+    }
   }
 ]
