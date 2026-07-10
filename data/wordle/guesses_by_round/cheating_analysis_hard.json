@@ -16756,5 +16756,33 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-07-09",
+    "word": "amend",
+    "guesses": {
+      "today": 555,
+      "yesterday": 53,
+      "delta": 502,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.02,
+        "delta": 0.22
+      }
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "word": "canal",
+    "guesses": {
+      "today": 446,
+      "yesterday": 2,
+      "delta": 444,
+      "proportion": {
+        "today": 0.2,
+        "yesterday": 0.0,
+        "delta": 0.2
+      }
+    }
   }
 ]
