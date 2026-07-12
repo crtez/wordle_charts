@@ -16784,5 +16784,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-07-11",
+    "word": "avian",
+    "guesses": {
+      "today": 416,
+      "yesterday": 2,
+      "delta": 414,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
   }
 ]
