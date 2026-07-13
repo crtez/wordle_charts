@@ -16798,5 +16798,33 @@
         "delta": 0.31
       }
     }
+  },
+  {
+    "date": "2026-07-12",
+    "word": "clack",
+    "guesses": {
+      "today": 5106,
+      "yesterday": 18,
+      "delta": 5088,
+      "proportion": {
+        "today": 0.29,
+        "yesterday": 0.0,
+        "delta": 0.29
+      }
+    }
+  },
+  {
+    "date": "2026-07-13",
+    "word": "stout",
+    "guesses": {
+      "today": 6041,
+      "yesterday": 65,
+      "delta": 5976,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.0,
+        "delta": 0.34
+      }
+    }
   }
 ]
