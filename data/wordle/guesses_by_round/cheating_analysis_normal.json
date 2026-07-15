@@ -16826,5 +16826,19 @@
         "delta": 0.34
       }
     }
+  },
+  {
+    "date": "2026-07-14",
+    "word": "steak",
+    "guesses": {
+      "today": 13553,
+      "yesterday": 4181,
+      "delta": 9372,
+      "proportion": {
+        "today": 0.76,
+        "yesterday": 0.24,
+        "delta": 0.53
+      }
+    }
   }
 ]
