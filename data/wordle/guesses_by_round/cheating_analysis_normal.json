@@ -16840,5 +16840,19 @@
         "delta": 0.53
       }
     }
+  },
+  {
+    "date": "2026-07-15",
+    "word": "pshaw",
+    "guesses": {
+      "today": 8342,
+      "yesterday": 11,
+      "delta": 8331,
+      "proportion": {
+        "today": 0.47,
+        "yesterday": 0.0,
+        "delta": 0.47
+      }
+    }
   }
 ]
