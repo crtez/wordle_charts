@@ -16854,5 +16854,19 @@
         "delta": 0.47
       }
     }
+  },
+  {
+    "date": "2026-07-16",
+    "word": "butte",
+    "guesses": {
+      "today": 6406,
+      "yesterday": 11,
+      "delta": 6395,
+      "proportion": {
+        "today": 0.36,
+        "yesterday": 0.0,
+        "delta": 0.36
+      }
+    }
   }
 ]
