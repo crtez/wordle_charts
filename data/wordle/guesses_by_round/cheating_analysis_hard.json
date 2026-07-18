@@ -16868,5 +16868,19 @@
         "delta": 0.22
       }
     }
+  },
+  {
+    "date": "2026-07-17",
+    "word": "legal",
+    "guesses": {
+      "today": 422,
+      "yesterday": 10,
+      "delta": 412,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
   }
 ]
