@@ -16882,5 +16882,19 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-07-18",
+    "word": "booth",
+    "guesses": {
+      "today": 428,
+      "yesterday": 1,
+      "delta": 427,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
