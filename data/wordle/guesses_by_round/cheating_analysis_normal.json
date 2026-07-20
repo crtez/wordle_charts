@@ -16896,5 +16896,33 @@
         "delta": 0.32
       }
     }
+  },
+  {
+    "date": "2026-07-19",
+    "word": "churn",
+    "guesses": {
+      "today": 6452,
+      "yesterday": 247,
+      "delta": 6205,
+      "proportion": {
+        "today": 0.36,
+        "yesterday": 0.01,
+        "delta": 0.35
+      }
+    }
+  },
+  {
+    "date": "2026-07-20",
+    "word": "diver",
+    "guesses": {
+      "today": 6291,
+      "yesterday": 94,
+      "delta": 6197,
+      "proportion": {
+        "today": 0.35,
+        "yesterday": 0.01,
+        "delta": 0.35
+      }
+    }
   }
 ]
