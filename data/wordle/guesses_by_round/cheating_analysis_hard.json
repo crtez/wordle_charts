@@ -16924,5 +16924,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-07-21",
+    "word": "shill",
+    "guesses": {
+      "today": 394,
+      "yesterday": 2,
+      "delta": 392,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.17
+      }
+    }
   }
 ]
