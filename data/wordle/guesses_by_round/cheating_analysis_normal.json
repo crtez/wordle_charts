@@ -16938,5 +16938,19 @@
         "delta": 0.32
       }
     }
+  },
+  {
+    "date": "2026-07-22",
+    "word": "lorry",
+    "guesses": {
+      "today": 6187,
+      "yesterday": 12,
+      "delta": 6175,
+      "proportion": {
+        "today": 0.35,
+        "yesterday": 0.0,
+        "delta": 0.35
+      }
+    }
   }
 ]
