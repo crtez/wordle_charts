@@ -16952,5 +16952,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-07-23",
+    "word": "orbit",
+    "guesses": {
+      "today": 558,
+      "yesterday": 50,
+      "delta": 508,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.02,
+        "delta": 0.23
+      }
+    }
   }
 ]
