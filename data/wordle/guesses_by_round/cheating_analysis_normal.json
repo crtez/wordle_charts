@@ -16966,5 +16966,19 @@
         "delta": 0.38
       }
     }
+  },
+  {
+    "date": "2026-07-24",
+    "word": "putty",
+    "guesses": {
+      "today": 6238,
+      "yesterday": 13,
+      "delta": 6225,
+      "proportion": {
+        "today": 0.35,
+        "yesterday": 0.0,
+        "delta": 0.35
+      }
+    }
   }
 ]
