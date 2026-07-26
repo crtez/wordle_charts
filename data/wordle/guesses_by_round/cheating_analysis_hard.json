@@ -16980,5 +16980,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-07-25",
+    "word": "aloha",
+    "guesses": {
+      "today": 551,
+      "yesterday": 2,
+      "delta": 549,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.0,
+        "delta": 0.25
+      }
+    }
   }
 ]
