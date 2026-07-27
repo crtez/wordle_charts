@@ -16994,5 +16994,33 @@
         "delta": 0.25
       }
     }
+  },
+  {
+    "date": "2026-07-26",
+    "word": "grape",
+    "guesses": {
+      "today": 968,
+      "yesterday": 305,
+      "delta": 663,
+      "proportion": {
+        "today": 0.43,
+        "yesterday": 0.14,
+        "delta": 0.3
+      }
+    }
+  },
+  {
+    "date": "2026-07-27",
+    "word": "poser",
+    "guesses": {
+      "today": 373,
+      "yesterday": 8,
+      "delta": 365,
+      "proportion": {
+        "today": 0.17,
+        "yesterday": 0.0,
+        "delta": 0.17
+      }
+    }
   }
 ]
