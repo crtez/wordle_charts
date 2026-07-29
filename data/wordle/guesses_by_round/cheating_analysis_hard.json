@@ -17022,5 +17022,33 @@
         "delta": 0.17
       }
     }
+  },
+  {
+    "date": "2026-07-28",
+    "word": "sonar",
+    "guesses": {
+      "today": 533,
+      "yesterday": 42,
+      "delta": 491,
+      "proportion": {
+        "today": 0.24,
+        "yesterday": 0.02,
+        "delta": 0.22
+      }
+    }
+  },
+  {
+    "date": "2026-07-29",
+    "word": "valve",
+    "guesses": {
+      "today": 485,
+      "yesterday": 4,
+      "delta": 481,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.22
+      }
+    }
   }
 ]
