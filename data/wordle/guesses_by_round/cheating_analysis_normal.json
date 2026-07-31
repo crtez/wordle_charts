@@ -17050,5 +17050,33 @@
         "delta": 0.38
       }
     }
+  },
+  {
+    "date": "2026-07-30",
+    "word": "flume",
+    "guesses": {
+      "today": 5635,
+      "yesterday": 46,
+      "delta": 5589,
+      "proportion": {
+        "today": 0.32,
+        "yesterday": 0.0,
+        "delta": 0.31
+      }
+    }
+  },
+  {
+    "date": "2026-07-31",
+    "word": "purse",
+    "guesses": {
+      "today": 7985,
+      "yesterday": 551,
+      "delta": 7434,
+      "proportion": {
+        "today": 0.45,
+        "yesterday": 0.03,
+        "delta": 0.42
+      }
+    }
   }
 ]
