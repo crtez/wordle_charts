@@ -17092,5 +17092,33 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-08-02",
+    "word": "penal",
+    "guesses": {
+      "today": 420,
+      "yesterday": 10,
+      "delta": 410,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
+  },
+  {
+    "date": "2026-08-03",
+    "word": "reply",
+    "guesses": {
+      "today": 483,
+      "yesterday": 20,
+      "delta": 463,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.01,
+        "delta": 0.21
+      }
+    }
   }
 ]
