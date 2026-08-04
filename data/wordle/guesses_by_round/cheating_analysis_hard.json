@@ -17120,5 +17120,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-08-04",
+    "word": "motif",
+    "guesses": {
+      "today": 426,
+      "yesterday": 5,
+      "delta": 421,
+      "proportion": {
+        "today": 0.2,
+        "yesterday": 0.0,
+        "delta": 0.2
+      }
+    }
   }
 ]
