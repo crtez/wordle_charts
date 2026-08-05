@@ -17134,5 +17134,19 @@
         "delta": 0.33
       }
     }
+  },
+  {
+    "date": "2026-08-05",
+    "word": "posit",
+    "guesses": {
+      "today": 6021,
+      "yesterday": 113,
+      "delta": 5908,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.01,
+        "delta": 0.33
+      }
+    }
   }
 ]
