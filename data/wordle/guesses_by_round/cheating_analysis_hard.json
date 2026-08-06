@@ -17148,5 +17148,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-08-06",
+    "word": "gripe",
+    "guesses": {
+      "today": 467,
+      "yesterday": 52,
+      "delta": 415,
+      "proportion": {
+        "today": 0.21,
+        "yesterday": 0.02,
+        "delta": 0.19
+      }
+    }
   }
 ]
