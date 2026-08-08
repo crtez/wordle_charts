@@ -17162,5 +17162,19 @@
         "delta": 0.32
       }
     }
+  },
+  {
+    "date": "2026-08-07",
+    "word": "feign",
+    "guesses": {
+      "today": 5345,
+      "yesterday": 123,
+      "delta": 5222,
+      "proportion": {
+        "today": 0.3,
+        "yesterday": 0.01,
+        "delta": 0.29
+      }
+    }
   }
 ]
