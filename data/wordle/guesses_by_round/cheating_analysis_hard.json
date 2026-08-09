@@ -17176,5 +17176,19 @@
         "delta": 0.16
       }
     }
+  },
+  {
+    "date": "2026-08-08",
+    "word": "privy",
+    "guesses": {
+      "today": 402,
+      "yesterday": 5,
+      "delta": 397,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.17
+      }
+    }
   }
 ]
