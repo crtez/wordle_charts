@@ -17190,5 +17190,19 @@
         "delta": 0.29
       }
     }
+  },
+  {
+    "date": "2026-08-09",
+    "word": "clunk",
+    "guesses": {
+      "today": 4582,
+      "yesterday": 67,
+      "delta": 4515,
+      "proportion": {
+        "today": 0.26,
+        "yesterday": 0.0,
+        "delta": 0.25
+      }
+    }
   }
 ]
