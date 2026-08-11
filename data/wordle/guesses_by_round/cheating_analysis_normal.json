@@ -17204,5 +17204,19 @@
         "delta": 0.25
       }
     }
+  },
+  {
+    "date": "2026-08-10",
+    "word": "snipe",
+    "guesses": {
+      "today": 5996,
+      "yesterday": 239,
+      "delta": 5757,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.01,
+        "delta": 0.32
+      }
+    }
   }
 ]
