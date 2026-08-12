@@ -17218,5 +17218,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-08-11",
+    "word": "fence",
+    "guesses": {
+      "today": 440,
+      "yesterday": 9,
+      "delta": 431,
+      "proportion": {
+        "today": 0.2,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
