@@ -17232,5 +17232,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-08-12",
+    "word": "wimpy",
+    "guesses": {
+      "today": 448,
+      "yesterday": 5,
+      "delta": 443,
+      "proportion": {
+        "today": 0.2,
+        "yesterday": 0.0,
+        "delta": 0.2
+      }
+    }
   }
 ]
