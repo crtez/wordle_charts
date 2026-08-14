@@ -17246,5 +17246,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-08-13",
+    "word": "crash",
+    "guesses": {
+      "today": 857,
+      "yesterday": 217,
+      "delta": 640,
+      "proportion": {
+        "today": 0.38,
+        "yesterday": 0.1,
+        "delta": 0.28
+      }
+    }
   }
 ]
