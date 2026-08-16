@@ -17274,5 +17274,19 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-08-15",
+    "word": "loose",
+    "guesses": {
+      "today": 519,
+      "yesterday": 7,
+      "delta": 512,
+      "proportion": {
+        "today": 0.23,
+        "yesterday": 0.0,
+        "delta": 0.22
+      }
+    }
   }
 ]
