@@ -17288,5 +17288,19 @@
         "delta": 0.22
       }
     }
+  },
+  {
+    "date": "2026-08-16",
+    "word": "aspic",
+    "guesses": {
+      "today": 464,
+      "yesterday": 10,
+      "delta": 454,
+      "proportion": {
+        "today": 0.21,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
