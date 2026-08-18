@@ -17302,5 +17302,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-08-17",
+    "word": "tribe",
+    "guesses": {
+      "today": 596,
+      "yesterday": 117,
+      "delta": 479,
+      "proportion": {
+        "today": 0.27,
+        "yesterday": 0.05,
+        "delta": 0.21
+      }
+    }
   }
 ]
