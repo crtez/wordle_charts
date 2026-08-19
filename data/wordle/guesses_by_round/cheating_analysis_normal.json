@@ -17316,5 +17316,19 @@
         "delta": 0.39
       }
     }
+  },
+  {
+    "date": "2026-08-18",
+    "word": "strip",
+    "guesses": {
+      "today": 9575,
+      "yesterday": 1579,
+      "delta": 7996,
+      "proportion": {
+        "today": 0.54,
+        "yesterday": 0.09,
+        "delta": 0.45
+      }
+    }
   }
 ]
