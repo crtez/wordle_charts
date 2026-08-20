@@ -17330,5 +17330,19 @@
         "delta": 0.27
       }
     }
+  },
+  {
+    "date": "2026-08-19",
+    "word": "grill",
+    "guesses": {
+      "today": 436,
+      "yesterday": 3,
+      "delta": 433,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
