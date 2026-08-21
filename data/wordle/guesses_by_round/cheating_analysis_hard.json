@@ -17344,5 +17344,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-08-20",
+    "word": "murky",
+    "guesses": {
+      "today": 389,
+      "yesterday": 6,
+      "delta": 383,
+      "proportion": {
+        "today": 0.17,
+        "yesterday": 0.0,
+        "delta": 0.17
+      }
+    }
   }
 ]
