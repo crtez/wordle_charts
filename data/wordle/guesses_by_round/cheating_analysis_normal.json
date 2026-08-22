@@ -17358,5 +17358,19 @@
         "delta": 0.34
       }
     }
+  },
+  {
+    "date": "2026-08-21",
+    "word": "trace",
+    "guesses": {
+      "today": 20855,
+      "yesterday": 11327,
+      "delta": 9528,
+      "proportion": {
+        "today": 1.17,
+        "yesterday": 0.64,
+        "delta": 0.54
+      }
+    }
   }
 ]
