@@ -17372,5 +17372,19 @@
         "delta": 0.54
       }
     }
+  },
+  {
+    "date": "2026-08-22",
+    "word": "prawn",
+    "guesses": {
+      "today": 5713,
+      "yesterday": 173,
+      "delta": 5540,
+      "proportion": {
+        "today": 0.32,
+        "yesterday": 0.01,
+        "delta": 0.31
+      }
+    }
   }
 ]
