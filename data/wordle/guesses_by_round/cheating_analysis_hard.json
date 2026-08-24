@@ -17386,5 +17386,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-08-23",
+    "word": "olden",
+    "guesses": {
+      "today": 348,
+      "yesterday": 5,
+      "delta": 343,
+      "proportion": {
+        "today": 0.15,
+        "yesterday": 0.0,
+        "delta": 0.15
+      }
+    }
   }
 ]
