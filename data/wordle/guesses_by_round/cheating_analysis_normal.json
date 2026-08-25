@@ -17400,5 +17400,19 @@
         "delta": 0.26
       }
     }
+  },
+  {
+    "date": "2026-08-24",
+    "word": "runny",
+    "guesses": {
+      "today": 6920,
+      "yesterday": 11,
+      "delta": 6909,
+      "proportion": {
+        "today": 0.39,
+        "yesterday": 0.0,
+        "delta": 0.39
+      }
+    }
   }
 ]
