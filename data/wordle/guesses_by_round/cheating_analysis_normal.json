@@ -17414,5 +17414,19 @@
         "delta": 0.39
       }
     }
+  },
+  {
+    "date": "2026-08-25",
+    "word": "click",
+    "guesses": {
+      "today": 7418,
+      "yesterday": 52,
+      "delta": 7366,
+      "proportion": {
+        "today": 0.42,
+        "yesterday": 0.0,
+        "delta": 0.41
+      }
+    }
   }
 ]
