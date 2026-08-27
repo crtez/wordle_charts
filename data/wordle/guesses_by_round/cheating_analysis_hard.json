@@ -17428,5 +17428,33 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-08-26",
+    "word": "capon",
+    "guesses": {
+      "today": 391,
+      "yesterday": 1,
+      "delta": 390,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
+  },
+  {
+    "date": "2026-08-27",
+    "word": "uncut",
+    "guesses": {
+      "today": 417,
+      "yesterday": 0,
+      "delta": 417,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
