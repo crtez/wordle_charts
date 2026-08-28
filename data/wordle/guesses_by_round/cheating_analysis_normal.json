@@ -17456,5 +17456,19 @@
         "delta": 0.38
       }
     }
+  },
+  {
+    "date": "2026-08-28",
+    "word": "tween",
+    "guesses": {
+      "today": 6875,
+      "yesterday": 15,
+      "delta": 6860,
+      "proportion": {
+        "today": 0.39,
+        "yesterday": 0.0,
+        "delta": 0.39
+      }
+    }
   }
 ]
