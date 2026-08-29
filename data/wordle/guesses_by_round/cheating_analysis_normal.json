@@ -17470,5 +17470,19 @@
         "delta": 0.39
       }
     }
+  },
+  {
+    "date": "2026-08-29",
+    "word": "blood",
+    "guesses": {
+      "today": 5689,
+      "yesterday": 102,
+      "delta": 5587,
+      "proportion": {
+        "today": 0.32,
+        "yesterday": 0.01,
+        "delta": 0.31
+      }
+    }
   }
 ]
