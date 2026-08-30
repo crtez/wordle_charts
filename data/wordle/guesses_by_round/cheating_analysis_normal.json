@@ -17484,5 +17484,19 @@
         "delta": 0.31
       }
     }
+  },
+  {
+    "date": "2026-08-30",
+    "word": "intel",
+    "guesses": {
+      "today": 4879,
+      "yesterday": 42,
+      "delta": 4837,
+      "proportion": {
+        "today": 0.27,
+        "yesterday": 0.0,
+        "delta": 0.27
+      }
+    }
   }
 ]
