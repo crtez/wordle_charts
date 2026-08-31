@@ -17498,5 +17498,19 @@
         "delta": 0.27
       }
     }
+  },
+  {
+    "date": "2026-08-31",
+    "word": "mound",
+    "guesses": {
+      "today": 8377,
+      "yesterday": 843,
+      "delta": 7534,
+      "proportion": {
+        "today": 0.47,
+        "yesterday": 0.05,
+        "delta": 0.42
+      }
+    }
   }
 ]
