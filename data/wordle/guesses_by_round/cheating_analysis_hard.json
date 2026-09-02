@@ -17526,5 +17526,19 @@
         "delta": 0.16
       }
     }
+  },
+  {
+    "date": "2026-09-02",
+    "word": "ruler",
+    "guesses": {
+      "today": 431,
+      "yesterday": 4,
+      "delta": 427,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
