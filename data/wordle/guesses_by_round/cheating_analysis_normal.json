@@ -17568,5 +17568,19 @@
         "delta": 0.35
       }
     }
+  },
+  {
+    "date": "2026-09-05",
+    "word": "soupy",
+    "guesses": {
+      "today": 5420,
+      "yesterday": 246,
+      "delta": 5174,
+      "proportion": {
+        "today": 0.3,
+        "yesterday": 0.01,
+        "delta": 0.29
+      }
+    }
   }
 ]
