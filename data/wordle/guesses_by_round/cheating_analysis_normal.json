@@ -17582,5 +17582,19 @@
         "delta": 0.29
       }
     }
+  },
+  {
+    "date": "2026-09-06",
+    "word": "beige",
+    "guesses": {
+      "today": 5586,
+      "yesterday": 30,
+      "delta": 5556,
+      "proportion": {
+        "today": 0.31,
+        "yesterday": 0.0,
+        "delta": 0.31
+      }
+    }
   }
 ]
