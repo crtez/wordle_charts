@@ -17596,5 +17596,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-09-07",
+    "word": "blind",
+    "guesses": {
+      "today": 577,
+      "yesterday": 105,
+      "delta": 472,
+      "proportion": {
+        "today": 0.26,
+        "yesterday": 0.05,
+        "delta": 0.21
+      }
+    }
   }
 ]
