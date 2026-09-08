@@ -17610,5 +17610,19 @@
         "delta": 0.4
       }
     }
+  },
+  {
+    "date": "2026-09-08",
+    "word": "liven",
+    "guesses": {
+      "today": 5506,
+      "yesterday": 17,
+      "delta": 5489,
+      "proportion": {
+        "today": 0.31,
+        "yesterday": 0.0,
+        "delta": 0.31
+      }
+    }
   }
 ]
