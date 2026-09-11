@@ -17652,5 +17652,19 @@
         "delta": 0.37
       }
     }
+  },
+  {
+    "date": "2026-09-11",
+    "word": "aster",
+    "guesses": {
+      "today": 8618,
+      "yesterday": 1575,
+      "delta": 7043,
+      "proportion": {
+        "today": 0.49,
+        "yesterday": 0.09,
+        "delta": 0.4
+      }
+    }
   }
 ]
