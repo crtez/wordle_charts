@@ -17666,5 +17666,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-09-12",
+    "word": "nifty",
+    "guesses": {
+      "today": 378,
+      "yesterday": 12,
+      "delta": 366,
+      "proportion": {
+        "today": 0.17,
+        "yesterday": 0.01,
+        "delta": 0.16
+      }
+    }
   }
 ]
