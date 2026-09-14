@@ -17694,5 +17694,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-09-14",
+    "word": "rinse",
+    "guesses": {
+      "today": 859,
+      "yesterday": 193,
+      "delta": 666,
+      "proportion": {
+        "today": 0.38,
+        "yesterday": 0.09,
+        "delta": 0.29
+      }
+    }
   }
 ]
