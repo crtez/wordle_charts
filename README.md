@@ -4,9 +4,6 @@
 
 An interactive visualization tool for exploring Wordle statistics. Track global averages, compare normal vs. hard mode performance, and analyze your personal Wordle journey through various charts and metrics.
 
-*Note: the chart is always one day behind, to prevent spoilers.
-
-
 Try typing `cat`:
 
 ![Demo of Wordle Charts](assets/cat.gif)
@@ -21,5 +18,3 @@ Try typing `cat`:
 - 🌓 Dark/Light mode support
   
 Built with React, TypeScript, Recharts, Python, and Claude.
-
-*<sub>(Unless you live in UTC-11)</sub>
