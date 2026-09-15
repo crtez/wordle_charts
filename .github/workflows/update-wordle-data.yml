@@ -6,8 +6,8 @@ env:
   VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
 on:
   schedule:
-    # Runs at 11pm UTC-11 every day
-    - cron: '0 10 * * *'
+    - cron: '0 23 * * *'
+      timezone: 'America/Los_Angeles'
   workflow_dispatch:
 
 jobs:
