@@ -17722,5 +17722,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-09-16",
+    "word": "wispy",
+    "guesses": {
+      "today": 356,
+      "yesterday": 7,
+      "delta": 349,
+      "proportion": {
+        "today": 0.16,
+        "yesterday": 0.0,
+        "delta": 0.16
+      }
+    }
   }
 ]
