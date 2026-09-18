@@ -17736,5 +17736,19 @@
         "delta": 0.16
       }
     }
+  },
+  {
+    "date": "2026-09-17",
+    "word": "theta",
+    "guesses": {
+      "today": 546,
+      "yesterday": 1,
+      "delta": 545,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.0,
+        "delta": 0.25
+      }
+    }
   }
 ]
