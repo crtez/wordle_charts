@@ -17750,5 +17750,19 @@
         "delta": 0.49
       }
     }
+  },
+  {
+    "date": "2026-09-18",
+    "word": "snowy",
+    "guesses": {
+      "today": 8971,
+      "yesterday": 116,
+      "delta": 8855,
+      "proportion": {
+        "today": 0.5,
+        "yesterday": 0.01,
+        "delta": 0.5
+      }
+    }
   }
 ]
