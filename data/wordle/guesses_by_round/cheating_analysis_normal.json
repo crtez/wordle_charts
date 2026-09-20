@@ -17764,5 +17764,19 @@
         "delta": 0.5
       }
     }
+  },
+  {
+    "date": "2026-09-19",
+    "word": "waken",
+    "guesses": {
+      "today": 4570,
+      "yesterday": 17,
+      "delta": 4553,
+      "proportion": {
+        "today": 0.26,
+        "yesterday": 0.0,
+        "delta": 0.26
+      }
+    }
   }
 ]
