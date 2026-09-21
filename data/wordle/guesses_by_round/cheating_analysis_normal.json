@@ -17778,5 +17778,19 @@
         "delta": 0.26
       }
     }
+  },
+  {
+    "date": "2026-09-20",
+    "word": "shone",
+    "guesses": {
+      "today": 5253,
+      "yesterday": 180,
+      "delta": 5073,
+      "proportion": {
+        "today": 0.3,
+        "yesterday": 0.01,
+        "delta": 0.29
+      }
+    }
   }
 ]
