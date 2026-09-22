@@ -17792,5 +17792,19 @@
         "delta": 0.29
       }
     }
+  },
+  {
+    "date": "2026-09-21",
+    "word": "pager",
+    "guesses": {
+      "today": 7165,
+      "yesterday": 99,
+      "delta": 7066,
+      "proportion": {
+        "today": 0.4,
+        "yesterday": 0.01,
+        "delta": 0.4
+      }
+    }
   }
 ]
