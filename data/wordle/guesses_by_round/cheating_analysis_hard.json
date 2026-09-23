@@ -17806,5 +17806,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-09-22",
+    "word": "stoke",
+    "guesses": {
+      "today": 524,
+      "yesterday": 45,
+      "delta": 479,
+      "proportion": {
+        "today": 0.24,
+        "yesterday": 0.02,
+        "delta": 0.22
+      }
+    }
   }
 ]
