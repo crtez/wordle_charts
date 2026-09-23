@@ -8,11 +8,16 @@
 /* eslint-disable max-lines */
 'use client'
 
-import { type FC, useState, useEffect, useRef } from 'react'
+import { type FC, useState, useEffect, useRef, lazy, Suspense } from 'react'
 import { Button } from '@/components/ui/button'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
-import { Calendar } from '@/components/ui/calendar'
+
 import { DateInput } from '@/components/date-input'
+
+// Only ever rendered inside the popover, so react-day-picker stays out of the entry bundle.
+const Calendar = lazy(() =>
+  import('@/components/ui/calendar').then((m) => ({ default: m.Calendar }))
+)
 import { Label } from '@/components/ui/label'
 import {
   Select,
@@ -504,6 +509,7 @@ export const DateRangePicker: FC<DateRangePickerProps> & {
                 </Select>
               )}
               <div>
+                <Suspense fallback={<div className="h-[298px] w-[250px]" />}>
                 <Calendar
                   mode="range"
                   onSelect={(value: { from?: Date, to?: Date } | undefined) => {
@@ -521,6 +527,7 @@ export const DateRangePicker: FC<DateRangePickerProps> & {
                     )
                   }
                 />
+                </Suspense>
               </div>
             </div>
           </div>

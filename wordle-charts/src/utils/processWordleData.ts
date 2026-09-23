@@ -1,34 +1,3 @@
-interface WordleData {
-  efficiency: {
-    normal: number;
-    hard: number;
-  };
-  luck: {
-    normal: number;
-    hard: number;
-  };
-  steps: {
-    normal: number[];
-    hard: number[];
-  };
-  unsolvedPenalty: {
-    normal: number;
-    hard: number;
-  };
-  average: {
-    normal: number;
-    hard: number;
-  };
-  percentSolvingInThreeOrFewer: {
-    normal: number;
-    hard: number;
-  };
-  percentiles: {
-    normal: Record<string, number>;
-    hard: Record<string, number>;
-  };
-}
-
 interface ChartDataPoint {
   id: string;
   date: string;
@@ -44,39 +13,28 @@ interface ChartDataPoint {
   personalDifference?: number | null;
 }
 
+let summariesPromise: Promise<ChartDataPoint[]> | null = null;
+
 export async function processWordleData(): Promise<ChartDataPoint[]> {
-  // Use Vite's glob import feature to get all JSON files in the data directory
-  const modules = import.meta.glob('/src/data/summaries/summary_*.json', { eager: true });
-
-  const chartData: ChartDataPoint[] = [];
-
-  for (const path in modules) {
-    const data = modules[path] as WordleData;
-
-    // Extract date and word from the filename
-    // Path format: /src/data/summary_word,id,YYYY-MM-DD.json
-    const filename = path.split('/').pop() || '';
-    const [prefix, id, dateStr] = filename.split(',');
-    const word = prefix.split('_')[1].toUpperCase();
-    const date = dateStr.split('.')[0];
-
-    chartData.push({
-      date: date,
-      word,
-      id,
-      average: data.average.normal,
-      hardAverage: data.average.hard,
-      percentSolved: (1 - data.unsolvedPenalty.normal / 100) * 100,
-      percentSolvedHard: (1 - data.unsolvedPenalty.hard / 100) * 100,
-      percentThreeOrFewer: data.percentSolvingInThreeOrFewer.normal * 100,
-      percentThreeOrFewerHard: data.percentSolvingInThreeOrFewer.hard * 100,
-      efficiency: data.efficiency.normal * 100,
-      efficiencyHard: data.efficiency.hard * 100,
-    });
+  // Single prebuilt file written by scripts/build-summaries.mjs, fetched instead of
+  // inlined so the entry bundle doesn't carry ~1200 puzzle summaries.
+  // Cached so the request is shared no matter who asks first.
+  if (!summariesPromise) {
+    summariesPromise = fetch(`${import.meta.env.BASE_URL}wordle-summaries.json`)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`Failed to load wordle summaries: ${response.status} ${response.statusText}`);
+        }
+        // Already trimmed to these fields and sorted by date at build time.
+        return response.json() as Promise<ChartDataPoint[]>;
+      })
+      .catch((err) => {
+        summariesPromise = null; // let a later mount retry
+        throw err;
+      });
   }
 
-  // Sort by date
-  return chartData.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+  return summariesPromise;
 }
 
 // Optional: Create a custom hook for using this data
