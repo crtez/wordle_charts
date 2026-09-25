@@ -17834,5 +17834,19 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-09-24",
+    "word": "messy",
+    "guesses": {
+      "today": 530,
+      "yesterday": 4,
+      "delta": 526,
+      "proportion": {
+        "today": 0.24,
+        "yesterday": 0.0,
+        "delta": 0.24
+      }
+    }
   }
 ]
