@@ -17848,5 +17848,19 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-09-25",
+    "word": "copse",
+    "guesses": {
+      "today": 476,
+      "yesterday": 12,
+      "delta": 464,
+      "proportion": {
+        "today": 0.21,
+        "yesterday": 0.01,
+        "delta": 0.21
+      }
+    }
   }
 ]
