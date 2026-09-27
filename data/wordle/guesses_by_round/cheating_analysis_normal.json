@@ -17862,5 +17862,19 @@
         "delta": 0.38
       }
     }
+  },
+  {
+    "date": "2026-09-26",
+    "word": "elegy",
+    "guesses": {
+      "today": 5409,
+      "yesterday": 16,
+      "delta": 5393,
+      "proportion": {
+        "today": 0.31,
+        "yesterday": 0.0,
+        "delta": 0.3
+      }
+    }
   }
 ]
