@@ -17876,5 +17876,33 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-09-27",
+    "word": "sloop",
+    "guesses": {
+      "today": 411,
+      "yesterday": 2,
+      "delta": 409,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
+  },
+  {
+    "date": "2026-09-28",
+    "word": "trunk",
+    "guesses": {
+      "today": 559,
+      "yesterday": 94,
+      "delta": 465,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.04,
+        "delta": 0.21
+      }
+    }
   }
 ]
