@@ -17904,5 +17904,19 @@
         "delta": 0.35
       }
     }
+  },
+  {
+    "date": "2026-09-29",
+    "word": "scuba",
+    "guesses": {
+      "today": 10180,
+      "yesterday": 60,
+      "delta": 10120,
+      "proportion": {
+        "today": 0.57,
+        "yesterday": 0.0,
+        "delta": 0.57
+      }
+    }
   }
 ]
