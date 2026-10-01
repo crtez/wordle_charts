@@ -17918,5 +17918,33 @@
         "delta": 0.27
       }
     }
+  },
+  {
+    "date": "2026-09-30",
+    "word": "river",
+    "guesses": {
+      "today": 547,
+      "yesterday": 18,
+      "delta": 529,
+      "proportion": {
+        "today": 0.25,
+        "yesterday": 0.01,
+        "delta": 0.24
+      }
+    }
+  },
+  {
+    "date": "2026-10-01",
+    "word": "ritzy",
+    "guesses": {
+      "today": 409,
+      "yesterday": 1,
+      "delta": 408,
+      "proportion": {
+        "today": 0.19,
+        "yesterday": 0.0,
+        "delta": 0.19
+      }
+    }
   }
 ]
