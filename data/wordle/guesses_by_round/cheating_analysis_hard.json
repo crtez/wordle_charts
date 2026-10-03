@@ -17946,5 +17946,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-10-02",
+    "word": "usury",
+    "guesses": {
+      "today": 492,
+      "yesterday": 0,
+      "delta": 492,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.22
+      }
+    }
   }
 ]
