@@ -17960,5 +17960,19 @@
         "delta": 0.22
       }
     }
+  },
+  {
+    "date": "2026-10-03",
+    "word": "peeve",
+    "guesses": {
+      "today": 405,
+      "yesterday": 1,
+      "delta": 404,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
   }
 ]
