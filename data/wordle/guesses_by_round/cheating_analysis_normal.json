@@ -17974,5 +17974,33 @@
         "delta": 0.34
       }
     }
+  },
+  {
+    "date": "2026-10-04",
+    "word": "shack",
+    "guesses": {
+      "today": 6097,
+      "yesterday": 159,
+      "delta": 5938,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.01,
+        "delta": 0.33
+      }
+    }
+  },
+  {
+    "date": "2026-10-05",
+    "word": "mocha",
+    "guesses": {
+      "today": 6029,
+      "yesterday": 115,
+      "delta": 5914,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.01,
+        "delta": 0.33
+      }
+    }
   }
 ]
