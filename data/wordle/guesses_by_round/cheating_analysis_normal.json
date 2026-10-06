@@ -18002,5 +18002,19 @@
         "delta": 0.33
       }
     }
+  },
+  {
+    "date": "2026-10-06",
+    "word": "dimly",
+    "guesses": {
+      "today": 5101,
+      "yesterday": 11,
+      "delta": 5090,
+      "proportion": {
+        "today": 0.29,
+        "yesterday": 0.0,
+        "delta": 0.29
+      }
+    }
   }
 ]
