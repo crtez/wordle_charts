@@ -18016,5 +18016,19 @@
         "delta": 0.29
       }
     }
+  },
+  {
+    "date": "2026-10-07",
+    "word": "prove",
+    "guesses": {
+      "today": 6145,
+      "yesterday": 241,
+      "delta": 5904,
+      "proportion": {
+        "today": 0.35,
+        "yesterday": 0.01,
+        "delta": 0.33
+      }
+    }
   }
 ]
