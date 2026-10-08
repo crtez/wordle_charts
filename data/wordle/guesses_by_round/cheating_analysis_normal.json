@@ -18030,5 +18030,19 @@
         "delta": 0.33
       }
     }
+  },
+  {
+    "date": "2026-10-08",
+    "word": "strew",
+    "guesses": {
+      "today": 5244,
+      "yesterday": 57,
+      "delta": 5187,
+      "proportion": {
+        "today": 0.29,
+        "yesterday": 0.0,
+        "delta": 0.29
+      }
+    }
   }
 ]
