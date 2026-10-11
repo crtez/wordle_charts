@@ -18058,5 +18058,19 @@
         "delta": 0.35
       }
     }
+  },
+  {
+    "date": "2026-10-10",
+    "word": "bumpy",
+    "guesses": {
+      "today": 6003,
+      "yesterday": 100,
+      "delta": 5903,
+      "proportion": {
+        "today": 0.34,
+        "yesterday": 0.01,
+        "delta": 0.33
+      }
+    }
   }
 ]
