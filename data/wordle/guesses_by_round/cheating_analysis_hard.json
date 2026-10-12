@@ -18072,5 +18072,33 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-10-11",
+    "word": "uncap",
+    "guesses": {
+      "today": 363,
+      "yesterday": 0,
+      "delta": 363,
+      "proportion": {
+        "today": 0.16,
+        "yesterday": 0.0,
+        "delta": 0.16
+      }
+    }
+  },
+  {
+    "date": "2026-10-12",
+    "word": "yodel",
+    "guesses": {
+      "today": 457,
+      "yesterday": 15,
+      "delta": 442,
+      "proportion": {
+        "today": 0.21,
+        "yesterday": 0.01,
+        "delta": 0.2
+      }
+    }
   }
 ]
