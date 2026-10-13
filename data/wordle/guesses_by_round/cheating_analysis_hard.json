@@ -18100,5 +18100,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-10-13",
+    "word": "wider",
+    "guesses": {
+      "today": 405,
+      "yesterday": 4,
+      "delta": 401,
+      "proportion": {
+        "today": 0.18,
+        "yesterday": 0.0,
+        "delta": 0.18
+      }
+    }
   }
 ]
