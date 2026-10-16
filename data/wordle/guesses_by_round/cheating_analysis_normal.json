@@ -18128,5 +18128,19 @@
         "delta": 0.58
       }
     }
+  },
+  {
+    "date": "2026-10-15",
+    "word": "dunce",
+    "guesses": {
+      "today": 8991,
+      "yesterday": 71,
+      "delta": 8920,
+      "proportion": {
+        "today": 0.5,
+        "yesterday": 0.0,
+        "delta": 0.5
+      }
+    }
   }
 ]
