@@ -18142,5 +18142,19 @@
         "delta": 0.5
       }
     }
+  },
+  {
+    "date": "2026-10-16",
+    "word": "shady",
+    "guesses": {
+      "today": 8467,
+      "yesterday": 139,
+      "delta": 8328,
+      "proportion": {
+        "today": 0.48,
+        "yesterday": 0.01,
+        "delta": 0.47
+      }
+    }
   }
 ]
