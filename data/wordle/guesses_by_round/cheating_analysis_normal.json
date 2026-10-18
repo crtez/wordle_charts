@@ -18156,5 +18156,19 @@
         "delta": 0.47
       }
     }
+  },
+  {
+    "date": "2026-10-17",
+    "word": "gaffe",
+    "guesses": {
+      "today": 5525,
+      "yesterday": 7,
+      "delta": 5518,
+      "proportion": {
+        "today": 0.31,
+        "yesterday": 0.0,
+        "delta": 0.31
+      }
+    }
   }
 ]
