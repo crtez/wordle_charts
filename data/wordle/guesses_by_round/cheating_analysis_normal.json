@@ -18170,5 +18170,19 @@
         "delta": 0.31
       }
     }
+  },
+  {
+    "date": "2026-10-18",
+    "word": "adorn",
+    "guesses": {
+      "today": 6243,
+      "yesterday": 241,
+      "delta": 6002,
+      "proportion": {
+        "today": 0.35,
+        "yesterday": 0.01,
+        "delta": 0.34
+      }
+    }
   }
 ]
