@@ -18184,5 +18184,19 @@
         "delta": 0.34
       }
     }
+  },
+  {
+    "date": "2026-10-19",
+    "word": "stink",
+    "guesses": {
+      "today": 10800,
+      "yesterday": 535,
+      "delta": 10265,
+      "proportion": {
+        "today": 0.61,
+        "yesterday": 0.03,
+        "delta": 0.58
+      }
+    }
   }
 ]
