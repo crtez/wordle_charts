@@ -18212,5 +18212,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-10-21",
+    "word": "penny",
+    "guesses": {
+      "today": 611,
+      "yesterday": 5,
+      "delta": 606,
+      "proportion": {
+        "today": 0.28,
+        "yesterday": 0.0,
+        "delta": 0.28
+      }
+    }
   }
 ]
