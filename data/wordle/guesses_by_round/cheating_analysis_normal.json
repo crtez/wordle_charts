@@ -18226,5 +18226,19 @@
         "delta": 0.64
       }
     }
+  },
+  {
+    "date": "2026-10-22",
+    "word": "reset",
+    "guesses": {
+      "today": 9148,
+      "yesterday": 73,
+      "delta": 9075,
+      "proportion": {
+        "today": 0.51,
+        "yesterday": 0.0,
+        "delta": 0.51
+      }
+    }
   }
 ]
