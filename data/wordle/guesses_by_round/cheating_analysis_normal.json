@@ -18240,5 +18240,19 @@
         "delta": 0.51
       }
     }
+  },
+  {
+    "date": "2026-10-23",
+    "word": "trill",
+    "guesses": {
+      "today": 8322,
+      "yesterday": 40,
+      "delta": 8282,
+      "proportion": {
+        "today": 0.47,
+        "yesterday": 0.0,
+        "delta": 0.47
+      }
+    }
   }
 ]
