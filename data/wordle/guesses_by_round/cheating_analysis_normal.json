@@ -18254,5 +18254,19 @@
         "delta": 0.47
       }
     }
+  },
+  {
+    "date": "2026-10-24",
+    "word": "holey",
+    "guesses": {
+      "today": 5236,
+      "yesterday": 27,
+      "delta": 5209,
+      "proportion": {
+        "today": 0.3,
+        "yesterday": 0.0,
+        "delta": 0.29
+      }
+    }
   }
 ]
