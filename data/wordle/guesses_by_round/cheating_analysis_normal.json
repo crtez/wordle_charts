@@ -18296,5 +18296,19 @@
         "delta": 0.46
       }
     }
+  },
+  {
+    "date": "2026-10-27",
+    "word": "bingo",
+    "guesses": {
+      "today": 11739,
+      "yesterday": 382,
+      "delta": 11357,
+      "proportion": {
+        "today": 0.66,
+        "yesterday": 0.02,
+        "delta": 0.64
+      }
+    }
   }
 ]
