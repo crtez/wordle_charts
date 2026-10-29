@@ -18310,5 +18310,19 @@
         "delta": 0.64
       }
     }
+  },
+  {
+    "date": "2026-10-28",
+    "word": "grist",
+    "guesses": {
+      "today": 8368,
+      "yesterday": 93,
+      "delta": 8275,
+      "proportion": {
+        "today": 0.47,
+        "yesterday": 0.01,
+        "delta": 0.46
+      }
+    }
   }
 ]
