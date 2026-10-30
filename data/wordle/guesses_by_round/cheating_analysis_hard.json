@@ -18324,5 +18324,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-10-29",
+    "word": "motor",
+    "guesses": {
+      "today": 504,
+      "yesterday": 2,
+      "delta": 502,
+      "proportion": {
+        "today": 0.23,
+        "yesterday": 0.0,
+        "delta": 0.23
+      }
+    }
   }
 ]
