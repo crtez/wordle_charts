@@ -18338,5 +18338,19 @@
         "delta": 0.53
       }
     }
+  },
+  {
+    "date": "2026-10-30",
+    "word": "slide",
+    "guesses": {
+      "today": 10383,
+      "yesterday": 941,
+      "delta": 9442,
+      "proportion": {
+        "today": 0.58,
+        "yesterday": 0.05,
+        "delta": 0.53
+      }
+    }
   }
 ]
