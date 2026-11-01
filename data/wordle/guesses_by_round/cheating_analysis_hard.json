@@ -18352,5 +18352,33 @@
         "delta": 0.24
       }
     }
+  },
+  {
+    "date": "2026-10-31",
+    "word": "yahoo",
+    "guesses": {
+      "today": 537,
+      "yesterday": 0,
+      "delta": 537,
+      "proportion": {
+        "today": 0.24,
+        "yesterday": 0.0,
+        "delta": 0.24
+      }
+    }
+  },
+  {
+    "date": "2026-11-01",
+    "word": "viper",
+    "guesses": {
+      "today": 468,
+      "yesterday": 15,
+      "delta": 453,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.01,
+        "delta": 0.21
+      }
+    }
   }
 ]
