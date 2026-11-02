@@ -18380,5 +18380,19 @@
         "delta": 0.33
       }
     }
+  },
+  {
+    "date": "2026-11-02",
+    "word": "scoot",
+    "guesses": {
+      "today": 6650,
+      "yesterday": 13,
+      "delta": 6637,
+      "proportion": {
+        "today": 0.37,
+        "yesterday": 0.0,
+        "delta": 0.37
+      }
+    }
   }
 ]
