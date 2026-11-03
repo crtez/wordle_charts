@@ -18394,5 +18394,19 @@
         "delta": 0.19
       }
     }
+  },
+  {
+    "date": "2026-11-03",
+    "word": "pouch",
+    "guesses": {
+      "today": 605,
+      "yesterday": 110,
+      "delta": 495,
+      "proportion": {
+        "today": 0.27,
+        "yesterday": 0.05,
+        "delta": 0.22
+      }
+    }
   }
 ]
