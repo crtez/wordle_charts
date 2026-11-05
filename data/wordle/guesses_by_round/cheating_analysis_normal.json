@@ -18422,5 +18422,19 @@
         "delta": 0.43
       }
     }
+  },
+  {
+    "date": "2026-11-05",
+    "word": "parch",
+    "guesses": {
+      "today": 6818,
+      "yesterday": 66,
+      "delta": 6752,
+      "proportion": {
+        "today": 0.38,
+        "yesterday": 0.0,
+        "delta": 0.38
+      }
+    }
   }
 ]
