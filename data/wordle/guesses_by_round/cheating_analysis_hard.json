@@ -18436,5 +18436,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-11-06",
+    "word": "dreck",
+    "guesses": {
+      "today": 368,
+      "yesterday": 3,
+      "delta": 365,
+      "proportion": {
+        "today": 0.17,
+        "yesterday": 0.0,
+        "delta": 0.17
+      }
+    }
   }
 ]
