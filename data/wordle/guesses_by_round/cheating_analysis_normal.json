@@ -18450,5 +18450,19 @@
         "delta": 0.35
       }
     }
+  },
+  {
+    "date": "2026-11-07",
+    "word": "prate",
+    "guesses": {
+      "today": 5343,
+      "yesterday": 81,
+      "delta": 5262,
+      "proportion": {
+        "today": 0.3,
+        "yesterday": 0.0,
+        "delta": 0.29
+      }
+    }
   }
 ]
