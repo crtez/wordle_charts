@@ -18464,5 +18464,19 @@
         "delta": 0.29
       }
     }
+  },
+  {
+    "date": "2026-11-08",
+    "word": "first",
+    "guesses": {
+      "today": 8594,
+      "yesterday": 1501,
+      "delta": 7093,
+      "proportion": {
+        "today": 0.48,
+        "yesterday": 0.08,
+        "delta": 0.4
+      }
+    }
   }
 ]
