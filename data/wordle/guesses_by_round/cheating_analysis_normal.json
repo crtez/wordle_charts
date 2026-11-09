@@ -18478,5 +18478,19 @@
         "delta": 0.4
       }
     }
+  },
+  {
+    "date": "2026-11-09",
+    "word": "loamy",
+    "guesses": {
+      "today": 6679,
+      "yesterday": 31,
+      "delta": 6648,
+      "proportion": {
+        "today": 0.38,
+        "yesterday": 0.0,
+        "delta": 0.37
+      }
+    }
   }
 ]
