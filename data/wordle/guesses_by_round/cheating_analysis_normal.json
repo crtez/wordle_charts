@@ -18506,5 +18506,19 @@
         "delta": 0.43
       }
     }
+  },
+  {
+    "date": "2026-11-11",
+    "word": "bless",
+    "guesses": {
+      "today": 7180,
+      "yesterday": 80,
+      "delta": 7100,
+      "proportion": {
+        "today": 0.4,
+        "yesterday": 0.0,
+        "delta": 0.4
+      }
+    }
   }
 ]
