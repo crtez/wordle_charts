@@ -18520,5 +18520,19 @@
         "delta": 0.21
       }
     }
+  },
+  {
+    "date": "2026-11-12",
+    "word": "karat",
+    "guesses": {
+      "today": 435,
+      "yesterday": 1,
+      "delta": 434,
+      "proportion": {
+        "today": 0.2,
+        "yesterday": 0.0,
+        "delta": 0.2
+      }
+    }
   }
 ]
