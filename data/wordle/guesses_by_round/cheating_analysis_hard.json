@@ -18534,5 +18534,19 @@
         "delta": 0.2
       }
     }
+  },
+  {
+    "date": "2026-11-13",
+    "word": "moxie",
+    "guesses": {
+      "today": 469,
+      "yesterday": 6,
+      "delta": 463,
+      "proportion": {
+        "today": 0.22,
+        "yesterday": 0.0,
+        "delta": 0.21
+      }
+    }
   }
 ]
