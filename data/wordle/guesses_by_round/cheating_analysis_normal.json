@@ -18548,5 +18548,19 @@
         "delta": 0.41
       }
     }
+  },
+  {
+    "date": "2026-11-14",
+    "word": "randy",
+    "guesses": {
+      "today": 7578,
+      "yesterday": 44,
+      "delta": 7534,
+      "proportion": {
+        "today": 0.43,
+        "yesterday": 0.0,
+        "delta": 0.42
+      }
+    }
   }
 ]
