@@ -18562,5 +18562,19 @@
         "delta": 0.42
       }
     }
+  },
+  {
+    "date": "2026-11-15",
+    "word": "snark",
+    "guesses": {
+      "today": 5076,
+      "yesterday": 35,
+      "delta": 5041,
+      "proportion": {
+        "today": 0.29,
+        "yesterday": 0.0,
+        "delta": 0.28
+      }
+    }
   }
 ]
