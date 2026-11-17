@@ -18590,5 +18590,19 @@
         "delta": 0.4
       }
     }
+  },
+  {
+    "date": "2026-11-17",
+    "word": "roast",
+    "guesses": {
+      "today": 18497,
+      "yesterday": 7739,
+      "delta": 10758,
+      "proportion": {
+        "today": 1.04,
+        "yesterday": 0.44,
+        "delta": 0.6
+      }
+    }
   }
 ]
