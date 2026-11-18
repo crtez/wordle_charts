@@ -18604,5 +18604,19 @@
         "delta": 0.6
       }
     }
+  },
+  {
+    "date": "2026-11-18",
+    "word": "blurt",
+    "guesses": {
+      "today": 6817,
+      "yesterday": 73,
+      "delta": 6744,
+      "proportion": {
+        "today": 0.38,
+        "yesterday": 0.0,
+        "delta": 0.38
+      }
+    }
   }
 ]
