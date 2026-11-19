@@ -18618,5 +18618,19 @@
         "delta": 0.17
       }
     }
+  },
+  {
+    "date": "2026-11-19",
+    "word": "clout",
+    "guesses": {
+      "today": 579,
+      "yesterday": 180,
+      "delta": 399,
+      "proportion": {
+        "today": 0.26,
+        "yesterday": 0.08,
+        "delta": 0.18
+      }
+    }
   }
 ]
