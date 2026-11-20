@@ -18632,5 +18632,19 @@
         "delta": 0.18
       }
     }
+  },
+  {
+    "date": "2026-11-20",
+    "word": "arose",
+    "guesses": {
+      "today": 2765,
+      "yesterday": 2071,
+      "delta": 694,
+      "proportion": {
+        "today": 1.26,
+        "yesterday": 0.94,
+        "delta": 0.32
+      }
+    }
   }
 ]
