@@ -18646,5 +18646,19 @@
         "delta": 0.58
       }
     }
+  },
+  {
+    "date": "2026-11-21",
+    "word": "stent",
+    "guesses": {
+      "today": 4983,
+      "yesterday": 16,
+      "delta": 4967,
+      "proportion": {
+        "today": 0.28,
+        "yesterday": 0.0,
+        "delta": 0.28
+      }
+    }
   }
 ]
