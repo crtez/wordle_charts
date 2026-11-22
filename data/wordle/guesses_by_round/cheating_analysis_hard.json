@@ -18660,5 +18660,19 @@
         "delta": 0.17
       }
     }
+  },
+  {
+    "date": "2026-11-22",
+    "word": "upend",
+    "guesses": {
+      "today": 350,
+      "yesterday": 5,
+      "delta": 345,
+      "proportion": {
+        "today": 0.16,
+        "yesterday": 0.0,
+        "delta": 0.16
+      }
+    }
   }
 ]
