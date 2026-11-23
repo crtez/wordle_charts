@@ -18674,5 +18674,19 @@
         "delta": 0.27
       }
     }
+  },
+  {
+    "date": "2026-11-23",
+    "word": "filth",
+    "guesses": {
+      "today": 7454,
+      "yesterday": 93,
+      "delta": 7361,
+      "proportion": {
+        "today": 0.42,
+        "yesterday": 0.01,
+        "delta": 0.41
+      }
+    }
   }
 ]
