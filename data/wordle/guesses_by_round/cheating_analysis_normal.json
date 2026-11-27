@@ -18730,5 +18730,19 @@
         "delta": 0.37
       }
     }
+  },
+  {
+    "date": "2026-11-27",
+    "word": "sheaf",
+    "guesses": {
+      "today": 5219,
+      "yesterday": 28,
+      "delta": 5191,
+      "proportion": {
+        "today": 0.29,
+        "yesterday": 0.0,
+        "delta": 0.29
+      }
+    }
   }
 ]
